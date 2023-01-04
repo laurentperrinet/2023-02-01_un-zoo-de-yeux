@@ -82,7 +82,7 @@ caractéristiques
 cas
 Ceci
 Cécile
-cela
+Cela
 celles
 cellules
 celui
@@ -90,9 +90,9 @@ certaines
 certains
 cerveau
 ces
-C’est
+c’est
 cet
-cette
+Cette
 Chacun
 Chacune
 changé
@@ -190,7 +190,7 @@ des
 désert
 deserunt
 dessin
-dessine
+Dessine
 détecter
 deux
 devait
@@ -225,8 +225,8 @@ dont
 d’orientation
 d’orienter
 Duis
-D’un
-D’une
+d’un
+d’une
 dur
 écologique
 Ede
@@ -473,7 +473,7 @@ nombre
 nombreuses
 nombreux
 nostrud
-Notamment
+notamment
 noter
 noterez
 notre
@@ -494,7 +494,7 @@ opérés
 optique
 organisme
 organismes
-Ou
+ou
 ouverture
 ouvertures
 palier
@@ -531,7 +531,7 @@ personne
 personnes
 pèse
 peu
-peut
+Peut
 peuvent
 phénomène
 photosensible
@@ -656,7 +656,7 @@ senti
 séquentielle
 serait
 seront
-Ses
+ses
 seule
 seulement
 sévères
@@ -680,7 +680,7 @@ Suivant
 suivants
 suivre
 sunt
-Sur
+sur
 sûrement
 surprenant
 surtout
@@ -748,6 +748,6 @@ vont
 vous
 vrai
 vu
-vue
+Vue
 Xara
 yeux
