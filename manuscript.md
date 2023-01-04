@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-04" />
   <meta name="citation_publication_date" content="2023-01-04" />
   <meta property="article:published_time" content="2023-01-04" />
-  <meta name="dc.modified" content="2023-01-04T14:10:27+00:00" />
-  <meta property="article:modified_time" content="2023-01-04T14:10:27+00:00" />
+  <meta name="dc.modified" content="2023-01-04T15:51:50+00:00" />
+  <meta property="article:modified_time" content="2023-01-04T15:51:50+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1ffe9686eb963768d631ca77b9f86ae6775ca6ce/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1ffe9686eb963768d631ca77b9f86ae6775ca6ce/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1ffe9686eb963768d631ca77b9f86ae6775ca6ce/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1e639dac485cab9b6192889c434038a85aad92d9/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1e639dac485cab9b6192889c434038a85aad92d9/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1e639dac485cab9b6192889c434038a85aad92d9/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1ffe9686eb963768d631ca77b9f86ae6775ca6ce/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1e639dac485cab9b6192889c434038a85aad92d9/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@1ffe968](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/1ffe9686eb963768d631ca77b9f86ae6775ca6ce)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@1e639da](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/1e639dac485cab9b6192889c434038a85aad92d9)
 on January 4, 2023.
 </em></small>
 
@@ -87,7 +87,7 @@ on January 4, 2023.
     <br>
   <small>
      Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
-     · Funded by ANR project "Horizontal-V1" N°ANR-17-CE37-0006.
+     · Funded by This research was funded by the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant number ANR-19-CHR3-0008-03 “APROVIS3D”, ANR grant number ANR-20-CE23-0021 “AgileNeuroBot”, as well as from Initiative d’Excellence d’Aix-Marseille Université–A*MIDEX grant number AMX-21-RID-025 “Polychronies”.
   </small>
 
 
