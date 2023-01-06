@@ -10,7 +10,7 @@
 
 <!-- usage note: edit this section. -->
 
-Repo pour un nouvel article pour The Conversation.
+Brouillon d'un nouvel article pour The Conversation.
 
 ## Manubot
 
