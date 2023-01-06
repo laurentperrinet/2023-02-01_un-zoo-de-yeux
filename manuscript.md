@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-06" />
   <meta name="citation_publication_date" content="2023-01-06" />
   <meta property="article:published_time" content="2023-01-06" />
-  <meta name="dc.modified" content="2023-01-06T09:22:36+00:00" />
-  <meta property="article:modified_time" content="2023-01-06T09:22:36+00:00" />
+  <meta name="dc.modified" content="2023-01-06T09:28:27+00:00" />
+  <meta property="article:modified_time" content="2023-01-06T09:28:27+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/82286d5908fcaa48f91cf1b523f7be30b936ae8f/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/82286d5908fcaa48f91cf1b523f7be30b936ae8f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/82286d5908fcaa48f91cf1b523f7be30b936ae8f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/e68a4263ee359ddc08bab113ea94de76a955bb2b/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/e68a4263ee359ddc08bab113ea94de76a955bb2b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/e68a4263ee359ddc08bab113ea94de76a955bb2b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/82286d5908fcaa48f91cf1b523f7be30b936ae8f/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/e68a4263ee359ddc08bab113ea94de76a955bb2b/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@82286d5](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/82286d5908fcaa48f91cf1b523f7be30b936ae8f)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@e68a426](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/e68a4263ee359ddc08bab113ea94de76a955bb2b)
 on January 6, 2023.
 </em></small>
 
@@ -104,11 +104,11 @@ Pour la plupart d'entre nous, le monde visible qui nous entoure est facilement e
 
 ## L’œil humain
 
-L’œil humain constitue est l'organe de la vue, et l’on peut être étonné devant l’ingéniosité des mécanismes qui sont mises en œuvre dans cette spère de deux centimètres de diamètre. Commençons par quelques caractéristiques de la vision qui nous semblent si naturelles mais qui ferait palir de jalousie n’importe quel constructeur de caméra artificielle. En effet, notre vision nous permet de capter à haute définition, en couleur et en relief. L’œil est capable de fonctionner aussi bien en plein soleil que sous la lumière d’une pleine lune, il peut s’adapter à de nombreuses conditions de visibilité. L'ensemble a un coût métabolique relativement faible.
+L'œil humain est l'organe de la vue, et nous ne pouvons que nous émerveiller devant les mécanismes ingénieux qui sont mis en œuvre dans cette sphère de deux centimètres de diamètre. Commençons par quelques caractéristiques de la vision qui nous semblent si naturelles mais qui rendraient jaloux n'importe quel fabricant de caméra artificielle. En effet, notre vision nous permet de capturer en haute définition, en couleur et en relief. L'œil est capable de fonctionner aussi bien en plein soleil qu'au clair de lune, il peut s'adapter à de nombreuses conditions de visibilité. L'ensemble a un coût métabolique relativement faible.
 
-La partie visible du système visuel qui permet ces prouesses sont les yeux. On voit ainsi, protégé par des paupières, le globe oculaire, qui laisse apparaître une pupille autour de laquelle se dessine l'iris. L’œil a une forme sphérique, qui lui permet de faire des mouvements de rotation rapide et qui permettent d’orienter le regard vers les points d'intérets ou de suivre des objets en mouvement. Vue en coupe, l’œil se compose, sur sa face externe d’une surface bombé, la cornée qui reçoit la lumière. Celle-ci traverse alors le cristallin qui agit à la façon d’une lentille pour concentrer les rayons lumineux sur le fond de l’œil. Sur ce fond se situe un tissu qui constitue l’organe sensible de notre œil, la rétine.
+La partie visible du système visuel qui permet ces prouesses sont les yeux. On voit le globe oculaire, protégé par des paupières, qui laisse apparaître une pupille autour de laquelle l'iris est visible. L'œil a une forme sphérique, ce qui lui permet d'effectuer des mouvements de rotation rapides et de diriger le regard vers des points d'intérêt ou de suivre des objets en mouvement. Vu en coupe, l'œil est composé, sur sa face externe d'une surface bombée, la cornée qui reçoit la lumière. Celle-ci traverse ensuite le cristallin qui agit comme une lentille pour concentrer les rayons lumineux sur le fond de l'œil. Sur ce fond se trouve un tissu qui constitue l'organe sensible de notre œil, la rétine.
 
-La rétine joue un rôle central dans cette efficacité. En effet, ce tissu contient de nombreux neurones sensibles à la lumière, ainsi que des mécanismes qui permet de transformer cette information pour la transmettre à notre cerveau, on compte ainsi environ 1 million de photos récepteurs, ainsi qu’environ 10 millions d’autres neurones qui permettent ce traitement. Les photorécepteurs permettent de transformer l’énergie électromagnétique portée par les photons grâce a une cascade de réactions électrochimiques, et peut produire une activité neuronale. En particulier, les cellules ganglionnaire se chargent de collecter cette information pour la transmettre au cerveau. La sortie de ces neurones se regroupent ainsi pour former le nerf optique qui va relier la rétine au reste du cerveau.
+La rétine joue un rôle central dans l'efficacité de l'œil. En effet, ce tissu contient de nombreux neurones sensibles à la lumière, ainsi que des mécanismes capables de transformer ces informations pour les transmettre à notre cerveau. On compte environ 1 million de photorécepteurs, ainsi qu'environ 10 millions d'autres neurones qui permettent ce traitement. Les photorécepteurs permettent de transformer l'énergie électromagnétique transportée par les photons grâce à une cascade de réactions électrochimiques, et peuvent produire une activité neuronale. En particulier, les cellules ganglionnaires sont chargées de collecter ces informations pour les transmettre au cerveau. Les sorties de ces neurones se regroupent pour former le nerf optique qui relie la rétine au reste du cerveau.
 
 [
 <i class="fas fa-info-circle fa-lg"></i> I am **here**.
