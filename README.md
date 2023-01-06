@@ -12,6 +12,9 @@
 
 Brouillon d'un nouvel article pour The Conversation.
 
+* [chapô](./content/01.chapo.md)
+* [content](./content/10.content.md)
+
 ## Manubot
 
 <!-- usage note: do not edit this section -->
