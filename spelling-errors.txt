@@ -47,7 +47,7 @@ aurait
 aussi
 aute
 autonomes
-Autour
+autour
 autre
 autrement
 autres
@@ -93,7 +93,7 @@ certaines
 certains
 cerveau
 ces
-c’est
+C’est
 cet
 cette
 Chacun
@@ -170,7 +170,7 @@ d’abord
 d’Aix
 d’alimentation
 d’ancêtre
-Dans
+dans
 d’ascenseur
 d’atteindre
 d’autres
@@ -233,7 +233,7 @@ d’orientation
 d’orienter
 Duis
 d’un
-d’une
+D’une
 dur
 écologique
 Ede
@@ -424,9 +424,9 @@ lumineux
 luminosité
 lune
 lunettes
-L’utilisation
+l’utilisation
 magna
-mais
+Mais
 manière
 manteau
 Marfisi
@@ -502,7 +502,7 @@ opérés
 optique
 organisme
 organismes
-ou
+Ou
 ouverture
 ouvertures
 palier
@@ -539,7 +539,7 @@ personne
 personnes
 pèse
 peu
-peut
+Peut
 peuvent
 phénomène
 photosensible
@@ -724,7 +724,7 @@ trouve
 trouver
 ullamco
 ultime
-une
+Une
 uniforme
 Université
 uns
@@ -757,6 +757,6 @@ vont
 vous
 vrai
 vu
-vue
+Vue
 Xara
 yeux
