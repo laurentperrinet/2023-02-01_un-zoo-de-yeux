@@ -46,7 +46,7 @@ aurait
 aussi
 aute
 autonomes
-autour
+Autour
 autre
 autrement
 autres
@@ -86,7 +86,7 @@ caractéristiques
 cas
 ceci
 Cécile
-cela
+Cela
 Celle
 celles
 cellules
@@ -98,7 +98,7 @@ cerveau
 ces
 c’est
 cet
-cette
+Cette
 Chacun
 Chacune
 changé
@@ -174,10 +174,10 @@ d’abord
 d’Aix
 d’alimentation
 d’ancêtre
-Dans
+dans
 d’ascenseur
 d’atteindre
-d’autres
+D’autres
 d’avoir
 décomposé
 découle
@@ -239,8 +239,8 @@ donnant
 dont
 d’orientation
 Duis
-d’un
-D’une
+D’un
+d’une
 dur
 écologique
 Ede
@@ -419,7 +419,7 @@ l’information
 l’iris
 l’objet
 l’obscurité
-l’œil
+L’œil
 l’on
 longue
 Lorem
@@ -433,9 +433,9 @@ lumineux
 luminosité
 lune
 lunettes
-l’utilisation
+L’utilisation
 magna
-Mais
+mais
 manière
 manteau
 Marfisi
@@ -548,7 +548,7 @@ personne
 personnes
 pèse
 peu
-peut
+Peut
 peuvent
 phénomène
 photorécepteurs
@@ -678,7 +678,7 @@ senti
 séquentielle
 serait
 seront
-ses
+Ses
 seule
 seulement
 sévères
@@ -698,11 +698,11 @@ sphérique
 statique
 Stéphane
 suggérer
-suivant
+Suivant
 suivants
 suivre
 sunt
-sur
+Sur
 sûrement
 surprenant
 surtout
@@ -736,7 +736,7 @@ trouve
 trouver
 ullamco
 ultime
-Une
+une
 uniforme
 Université
 uns
@@ -768,7 +768,7 @@ voluptate
 vont
 vous
 vrai
-vu
+Vu
 vue
 Xara
 yeux
