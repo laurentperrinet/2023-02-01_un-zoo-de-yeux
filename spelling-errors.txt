@@ -10,7 +10,7 @@ adipiscing
 aériens
 AgileNeuroBot
 agit
-ainsi
+Ainsi
 aisé
 Aix
 algorithmes
@@ -86,7 +86,7 @@ caractéristiques
 cas
 ceci
 Cécile
-cela
+Cela
 Celle
 celles
 cellules
@@ -174,7 +174,7 @@ d’abord
 d’Aix
 d’alimentation
 d’ancêtre
-dans
+Dans
 d’ascenseur
 d’atteindre
 D’autres
@@ -240,7 +240,7 @@ dont
 d’orientation
 Duis
 d’un
-D’une
+d’une
 dur
 écologique
 Ede
@@ -265,7 +265,7 @@ ensuite
 entour
 entoure
 entraîner
-entre
+Entre
 environ
 environnement
 envoie
@@ -372,6 +372,7 @@ ipsum
 irure
 Istres
 jaloux
+JohnMastodon
 joue
 jusqu’à
 labore
@@ -394,7 +395,7 @@ l’élaboration
 l’émergence
 l’enceinte
 l’énergie
-l’ensemble
+L’ensemble
 lentille
 l’environnement
 lequel
@@ -435,7 +436,7 @@ lune
 lunettes
 l’utilisation
 magna
-Mais
+mais
 manière
 manteau
 Marfisi
@@ -698,11 +699,11 @@ sphérique
 statique
 Stéphane
 suggérer
-suivant
+Suivant
 suivants
 suivre
 sunt
-sur
+Sur
 sûrement
 surprenant
 surtout
@@ -768,7 +769,7 @@ voluptate
 vont
 vous
 vrai
-vu
+Vu
 vue
 Xara
 yeux

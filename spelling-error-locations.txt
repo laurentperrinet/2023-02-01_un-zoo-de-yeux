@@ -1,3 +1,5 @@
+content/00.front-matter.md:55:JohnMastodon
+content/00.front-matter.md:55:JohnMastodon
 content/01.chapo.md:1:Résumé
 content/01.chapo.md:3:agit
 content/01.chapo.md:3:apprendre
