@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-01-12" />
   <meta name="citation_publication_date" content="2023-01-12" />
   <meta property="article:published_time" content="2023-01-12" />
-  <meta name="dc.modified" content="2023-01-12T12:15:38+00:00" />
-  <meta property="article:modified_time" content="2023-01-12T12:15:38+00:00" />
+  <meta name="dc.modified" content="2023-01-12T12:28:14+00:00" />
+  <meta property="article:modified_time" content="2023-01-12T12:28:14+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4925fcd2c911ba45c81a8a72253b390c42f4d48d/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4925fcd2c911ba45c81a8a72253b390c42f4d48d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4925fcd2c911ba45c81a8a72253b390c42f4d48d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9529f40499ba6186b3f84a43397ce50cbe311e72/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9529f40499ba6186b3f84a43397ce50cbe311e72/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9529f40499ba6186b3f84a43397ce50cbe311e72/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4925fcd2c911ba45c81a8a72253b390c42f4d48d/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9529f40499ba6186b3f84a43397ce50cbe311e72/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@4925fcd](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/4925fcd2c911ba45c81a8a72253b390c42f4d48d)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@9529f40](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/9529f40499ba6186b3f84a43397ce50cbe311e72)
 on January 12, 2023.
 </em></small>
 
@@ -82,7 +82,7 @@ on January 12, 2023.
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [laurentperrinet](https://github.com/laurentperrinet)
   · ![Mastodon icon](images/mastodon.svg){.inline_icon}
-  [https://neuromatch.social/@laurentperrinet](https://neuromatch.social/@laurentperrinet)
+  [@laurentperrinet](https://neuromatch.social/@laurentperrinet)
     <br>
   <small>
      Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
