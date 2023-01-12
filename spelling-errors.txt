@@ -46,7 +46,7 @@ aurait
 aussi
 aute
 autonomes
-Autour
+autour
 autre
 autrement
 autres
@@ -86,7 +86,7 @@ caractéristiques
 cas
 ceci
 Cécile
-Cela
+cela
 Celle
 celles
 cellules
@@ -177,7 +177,7 @@ d’ancêtre
 Dans
 d’ascenseur
 d’atteindre
-D’autres
+d’autres
 d’avoir
 décomposé
 découle
@@ -240,7 +240,7 @@ dont
 d’orientation
 Duis
 d’un
-d’une
+D’une
 dur
 écologique
 Ede
@@ -265,7 +265,7 @@ ensuite
 entour
 entoure
 entraîner
-Entre
+entre
 environ
 environnement
 envoie
@@ -372,7 +372,6 @@ ipsum
 irure
 Istres
 jaloux
-JohnMastodon
 joue
 jusqu’à
 labore
@@ -436,7 +435,7 @@ lune
 lunettes
 l’utilisation
 magna
-mais
+Mais
 manière
 manteau
 Marfisi
@@ -549,7 +548,7 @@ personne
 personnes
 pèse
 peu
-Peut
+peut
 peuvent
 phénomène
 photorécepteurs
@@ -679,7 +678,7 @@ senti
 séquentielle
 serait
 seront
-Ses
+ses
 seule
 seulement
 sévères
@@ -699,11 +698,11 @@ sphérique
 statique
 Stéphane
 suggérer
-Suivant
+suivant
 suivants
 suivre
 sunt
-Sur
+sur
 sûrement
 surprenant
 surtout
@@ -769,7 +768,7 @@ voluptate
 vont
 vous
 vrai
-Vu
+vu
 vue
 Xara
 yeux
