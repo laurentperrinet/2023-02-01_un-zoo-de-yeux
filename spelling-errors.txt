@@ -46,7 +46,7 @@ aurait
 aussi
 aute
 autonomes
-Autour
+autour
 autre
 autrement
 autres
@@ -84,7 +84,7 @@ caractère
 caractéristique
 caractéristiques
 cas
-Ceci
+ceci
 Cécile
 cela
 Celle
@@ -174,7 +174,7 @@ d’abord
 d’Aix
 d’alimentation
 d’ancêtre
-Dans
+dans
 d’ascenseur
 d’atteindre
 d’autres
@@ -239,8 +239,8 @@ donnant
 dont
 d’orientation
 Duis
-D’un
-d’une
+d’un
+D’une
 dur
 écologique
 Ede
@@ -394,7 +394,7 @@ l’élaboration
 l’émergence
 l’enceinte
 l’énergie
-L’ensemble
+l’ensemble
 lentille
 l’environnement
 lequel
@@ -419,7 +419,7 @@ l’information
 l’iris
 l’objet
 l’obscurité
-l’œil
+L’œil
 l’on
 longue
 Lorem
@@ -433,7 +433,7 @@ lumineux
 luminosité
 lune
 lunettes
-l’utilisation
+L’utilisation
 magna
 Mais
 manière
@@ -698,7 +698,7 @@ sphérique
 statique
 Stéphane
 suggérer
-Suivant
+suivant
 suivants
 suivre
 sunt
@@ -736,7 +736,7 @@ trouve
 trouver
 ullamco
 ultime
-Une
+une
 uniforme
 Université
 uns
@@ -768,7 +768,7 @@ voluptate
 vont
 vous
 vrai
-Vu
+vu
 vue
 Xara
 yeux
