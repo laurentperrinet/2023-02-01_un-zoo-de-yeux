@@ -11,7 +11,8 @@ author_info:
     name: Laurent U Perrinet
     initials: LuP
     orcid: 0000-0002-9536-010X
-    mastodon: "https://neuromatch.social/@laurentperrinet"
+    mastodonserver: "https://neuromatch.social/"
+    mastodon: laurentperrinet
     email: laurent.perrinet@univ-amu.fr
     affiliations:
       - Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
