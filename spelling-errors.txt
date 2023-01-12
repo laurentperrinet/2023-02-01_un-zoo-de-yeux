@@ -98,7 +98,7 @@ cerveau
 ces
 c’est
 cet
-cette
+Cette
 Chacun
 Chacune
 changé
@@ -239,7 +239,7 @@ donnant
 dont
 d’orientation
 Duis
-D’un
+d’un
 D’une
 dur
 écologique
@@ -435,7 +435,7 @@ lune
 lunettes
 l’utilisation
 magna
-Mais
+mais
 manière
 manteau
 Marfisi
@@ -678,7 +678,7 @@ senti
 séquentielle
 serait
 seront
-Ses
+ses
 seule
 seulement
 sévères
@@ -698,7 +698,7 @@ sphérique
 statique
 Stéphane
 suggérer
-Suivant
+suivant
 suivants
 suivre
 sunt
@@ -736,7 +736,7 @@ trouve
 trouver
 ullamco
 ultime
-Une
+une
 uniforme
 Université
 uns
