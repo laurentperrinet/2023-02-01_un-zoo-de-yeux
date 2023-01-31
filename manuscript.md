@@ -5,7 +5,7 @@ keywords:
 - Anatomie
 - Modélisation neurale
 lang: fr-FR
-date-meta: '2023-01-12'
+date-meta: '2023-01-31'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Un zoo de yeux" />
   <meta property="og:title" content="Un zoo de yeux" />
   <meta property="twitter:title" content="Un zoo de yeux" />
-  <meta name="dc.date" content="2023-01-12" />
-  <meta name="citation_publication_date" content="2023-01-12" />
-  <meta property="article:published_time" content="2023-01-12" />
-  <meta name="dc.modified" content="2023-01-12T13:33:19+00:00" />
-  <meta property="article:modified_time" content="2023-01-12T13:33:19+00:00" />
+  <meta name="dc.date" content="2023-01-31" />
+  <meta name="citation_publication_date" content="2023-01-31" />
+  <meta property="article:published_time" content="2023-01-31" />
+  <meta name="dc.modified" content="2023-01-31T08:09:46+00:00" />
+  <meta property="article:modified_time" content="2023-01-31T08:09:46+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/bd411fa852372cdd8fdd73e9da76a9e3525170eb/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/bd411fa852372cdd8fdd73e9da76a9e3525170eb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/bd411fa852372cdd8fdd73e9da76a9e3525170eb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/7e658d8ea978e5a32b80052f1ddc7e92fa43e33b/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/7e658d8ea978e5a32b80052f1ddc7e92fa43e33b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/7e658d8ea978e5a32b80052f1ddc7e92fa43e33b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/bd411fa852372cdd8fdd73e9da76a9e3525170eb/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/7e658d8ea978e5a32b80052f1ddc7e92fa43e33b/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@bd411fa](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/bd411fa852372cdd8fdd73e9da76a9e3525170eb)
-on January 12, 2023.
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@7e658d8](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/7e658d8ea978e5a32b80052f1ddc7e92fa43e33b)
+on January 31, 2023.
 </em></small>
 
 
@@ -81,8 +81,8 @@ on January 12, 2023.
     [0000-0002-9536-010X](https://orcid.org/0000-0002-9536-010X)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
     [laurentperrinet](https://github.com/laurentperrinet)
-  · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-  [\@laurentperrinet@neuromatch.social](https://neuromatch.social/@laurentperrinet)
+    · ![Mastodon icon](images/mastodon.svg){.inline_icon}
+    [\@laurentperrinet@neuromatch.social](https://neuromatch.social/@laurentperrinet)
     <br>
   <small>
      Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
