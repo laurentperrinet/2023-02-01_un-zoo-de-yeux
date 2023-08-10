@@ -96,10 +96,10 @@ centimètres
 certaines
 certains
 cerveau
-Ces
-C’est
+ces
+c’est
 cet
-cette
+Cette
 ceux
 Chacune
 changé
@@ -126,7 +126,7 @@ CNRS
 coexiste
 collecter
 coloré
-comme
+Comme
 Commençons
 commodo
 commun
@@ -184,7 +184,7 @@ d’abord
 d’Aix
 d’alimentation
 d’ancêtre
-dans
+Dans
 d’atteindre
 d’attention
 D’autres
@@ -255,7 +255,7 @@ dont
 d’orientation
 d’ororgines
 Duis
-D’un
+d’un
 D’une
 écologique
 effectuer
@@ -267,7 +267,7 @@ eiusmod
 électroniques
 élémentaires
 elit
-elle
+Elle
 embarqués
 émerveiller
 énergie
@@ -454,7 +454,7 @@ lumineux
 luminosité
 lune
 lunettes
-L’utilisation
+l’utilisation
 l’utiliser
 magna
 mais
@@ -722,7 +722,7 @@ sphérique
 statique
 Stéphane
 suggérer
-Suivant
+suivant
 suivre
 sunt
 Sur
@@ -760,7 +760,7 @@ trouver
 Typiquement
 ullamco
 ultime
-une
+Une
 uniforme
 Université
 uns
