@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-08-12" />
   <meta name="citation_publication_date" content="2023-08-12" />
   <meta property="article:published_time" content="2023-08-12" />
-  <meta name="dc.modified" content="2023-08-12T14:51:09+00:00" />
-  <meta property="article:modified_time" content="2023-08-12T14:51:09+00:00" />
+  <meta name="dc.modified" content="2023-08-12T14:57:34+00:00" />
+  <meta property="article:modified_time" content="2023-08-12T14:57:34+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/3b83858bdfe11ffe7fe3e34ccfb76a383e2f3a1c/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/3b83858bdfe11ffe7fe3e34ccfb76a383e2f3a1c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/3b83858bdfe11ffe7fe3e34ccfb76a383e2f3a1c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/5084ec8bf10fa22c71f8fe97fd28dae622fb5e0a/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/5084ec8bf10fa22c71f8fe97fd28dae622fb5e0a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/5084ec8bf10fa22c71f8fe97fd28dae622fb5e0a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/3b83858bdfe11ffe7fe3e34ccfb76a383e2f3a1c/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/5084ec8bf10fa22c71f8fe97fd28dae622fb5e0a/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@3b83858](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/3b83858bdfe11ffe7fe3e34ccfb76a383e2f3a1c)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@5084ec8](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/5084ec8bf10fa22c71f8fe97fd28dae622fb5e0a)
 on August 12, 2023.
 </em></small>
 
@@ -123,15 +123,15 @@ Une hypothèse fascinante a émergé, reliant ces deux mystères. Elle suggère 
 
 ## D’autres facettes des yeux
 
-Les yeux chez les humains, chats et moutons possèdent donc beaucoup de points en commun, mais aussi une grande variété sur les formes qu’ils peuvent prendre. Ils semblent donc avoir évolué sur des trajectoires différentes et indépendantes, mais probablement à partir d’un ancêtre commun. Si l'on remonte encore plus dans les branches de l’arbre de l’évolution, alors on trouve une autre forme d'œil qui est radicalement différente. Au lieu de concentrer une image sur la rétine grâce à la pupille, ces yeux sont composés de multiples yeux élémentaires de forme allongés et accolés les uns aux autres.
+Les yeux des humains, des chats et des moutons partagent de nombreux traits communs, mais présentent également une grande variabilité dans leurs formes. Il semble donc qu'ils aient évolué selon des trajectoires distinctes et indépendantes, tout en ayant probablement un ancêtre commun. Si l'on remonte encore plus loin dans les branches de l'arbre de l'évolution, on découvre une autre forme d'œil radicalement différente. Au lieu de focaliser une image sur la rétine grâce à une pupille, ces yeux sont constitués de multiples éléments oculaires allongés et juxtaposés.
 
-L’exemple le plus caractéristique de cette forme d’œil composé et celui de la mouche. Les yeux d’une mouche commune comportent environ 10000 facettes, organisés suivant une grille hexagonale relativement régulière. Ces yeux permettent un champ de vue panoramique de l’ensemble de l’environnement qui entoure la mouche. Chacune des facettes se compose d’une lentille et de quelques photorécepteurs, et l’ensemble permet aux mouches des prodiges de voltige, et notamment d’atteindre des accélérations dignes des meilleurs avions de chasse. Encore plus extraordinaire, ce système pèse moins d’un gramme et consomme très peu d’énergie. Il serait bien utile de mieux comprendre ce système pour guider des robots aériens du futur !
+L'exemple le plus frappant de cette configuration est celui de la mouche. Les yeux d'une mouche commune comportent environ 10 000 facettes organisées en une grille hexagonale relativement régulière. Cette structure permet à la mouche d'avoir un champ de vision panoramique de tout l'environnement qui l'entoure. Chacune de ces facettes comprend une lentille et quelques photorécepteurs, ce qui permet aux mouches d'exécuter des manœuvres impressionnantes, avec des accélérations dignes des meilleurs avions de chasse. Le plus surprenant peut-être est que ce système pèse moins d'un gramme et consomme très peu d'énergie. Comprendre ce mécanisme pourrait être extrêmement précieux pour guider la conception de futurs robots volants.
 
-Ces yeux dérivent sûrement d’un ancêtre commun. Si l’on remonte encore l’arbre phylogénétique, on peut trouver le système le plus rudimentaire dans certains microorganismes qui possèdent un mécanisme phototactique, c'est-à-dire de mouvement guidé par la lumière. Ce mécanisme est l’association simple d’un senseur photosensible, d’un positionnement excentré dans l’organisme qui définit une direction et enfin de cils qui agissent comme des moteurs pour déplacer cet organisme. Suivant que cet organisme cherche à être guidé vers une source de lumière, par exemple, car elle est plus probable de concentrer des sources de nourriture, ou qu’elle cherche à l’éviter, alors un simple mécanisme entre les cellules sensibles et les cellules motrices vont pouvoir implanter ce mécanisme d’orientation.
+Ces yeux dérivent certainement d'un ancêtre commun. En remontant encore plus en avant dans "l'arbre du vivant", on peut identifier une forme encore plus élémentaire chez certains microorganismes dotés d'un mécanisme phototactique, c'est-à-dire un mouvement guidé par la lumière. Ce mécanisme repose sur une association simple entre un capteur photosensible, une position excentrée dans l'organisme définissant une direction et des cils agissant comme des moteurs pour déplacer l'organisme. En fonction de si l'organisme cherche à se diriger vers une source de lumière (potentiellement une source de nourriture) ou à l'éviter, un mécanisme basique entre les cellules sensibles et motrices permet de mettre en place cette orientation.
 
-Dans notre exploration, il semble que les yeux aient évolué dans l’arbre de la vie à partir d'un ancêtre commun, et que la diversité du zoo des yeux que l’on puisse observer découle de différents branchements de cette évolution. Par exemple, on peut noter la forme du système visuel de la coquille Saint-Jacques. Si vous observez la coquille de cet animal, vous noterez les différents trous sur le bord de l’ouverture. Ces 21 trous représentent des ouvertures par lequel peuvent passer 21 différents yeux indépendants, qui permettent à ce mollusque de bouger ses yeux de façon indépendante ainsi et donc d’explorer son environnement lumineux immédiat. Encore plus surprenant, ses yeux peuvent capter jusqu’à 12 couleurs différentes, leur donnant une sensibilité décuplée.
+Au cours de notre exploration, il apparaît que les yeux ont évolué dans l'arbre de la vie à partir d'un ancêtre commun, et que la diversité des formes oculaires que nous observons résulte de différentes branches de cette évolution. Par exemple, considérons le système visuel de la coquille Saint-Jacques. En examinant sa coquille, on remarque les nombreux trous sur le bord de l'ouverture. Ces 21 ouvertures abritent 21 yeux indépendants, permettant à ce mollusque de bouger ses yeux de façon autonome et d'explorer son environnement lumineux immédiat. Plus étonnant encore, ses yeux peuvent détecter jusqu'à 12 couleurs différentes, offrant une sensibilité décuplée.
 
-Des études récentes semblent suggérer que les yeux ont sûrement été "inventés" plusieurs fois. En effet, certaines morphologies sont si différentes qu’elle ne semblent pas avoir d’ancêtre commun. C’est notamment vrai pour différentes formes de globe oculaire, mais aussi pour différencier la diversité que l’on observe à travers les espèces vivantes. Cela semble une hypothèse difficile à accepter, car nous sommes habitués à placer l’humain en haut de cette hiérarchie. Mais nous avons aussi vu que les yeux découlent de la nécessité de parvenir à certaines fonctions, et qu'à la lumière de la pression opérée par la sélection naturelle il n’existe pas de nécessité, à ce qu'il y ait un ancêtre commun à tous les yeux dans le monde vivant.
+Des études récentes suggèrent que les yeux ont probablement été "inventés" à plusieurs reprises. En effet, certaines morphologies sont si distinctes qu'elles semblent ne pas partager d'ancêtre commun. Cela est particulièrement vrai pour différentes formes de globes oculaires, ainsi que pour la variété observée à travers les espèces vivantes. Cette hypothèse peut sembler difficile à accepter, car nous avons tendance à placer les humains au sommet de la hiérarchie. Cependant, nous avons également vu que les yeux évoluent en réponse à des fonctions spécifiques, et à la lumière des pressions exercées par la sélection naturelle, il n'y a peut-être pas de nécessité à ce qu'il existe un ancêtre commun pour tous les types d'yeux dans le règne vivant.
 
 ## De l'imitation à la compréhension.
 
