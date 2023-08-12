@@ -321,7 +321,7 @@ content/10.content.md:9:bouger
 content/10.content.md:9:ça
 content/10.content.md:9:clin
 content/10.content.md:9:coexiste
-content/10.content.md:9:continuement
+content/10.content.md:9:continûment
 content/10.content.md:9:d’œil
 content/10.content.md:9:effectuer
 content/10.content.md:9:fascinant
@@ -380,7 +380,7 @@ content/10.content.md:12:bien
 content/10.content.md:12:biseau
 content/10.content.md:12:ceci
 content/10.content.md:12:celui
-content/10.content.md:12:cette
+content/10.content.md:12:cet
 content/10.content.md:12:comprendre
 content/10.content.md:12:compte
 content/10.content.md:12:côté
@@ -431,7 +431,7 @@ content/10.content.md:12:répondre
 content/10.content.md:12:ronde
 content/10.content.md:12:savoir
 content/10.content.md:12:surtout
-content/10.content.md:12:technologique
+content/10.content.md:12:technologiques
 content/10.content.md:12:utilisé
 content/10.content.md:12:utiliser
 content/10.content.md:12:voir
@@ -560,7 +560,7 @@ content/10.content.md:18:des
 content/10.content.md:18:deux
 content/10.content.md:18:différente
 content/10.content.md:18:donc
-content/10.content.md:18:espèce
+content/10.content.md:18:espèces
 content/10.content.md:18:étonnant
 content/10.content.md:18:évoluer
 content/10.content.md:18:évolution
@@ -646,12 +646,12 @@ content/10.content.md:20:des
 content/10.content.md:20:des
 content/10.content.md:20:deux
 content/10.content.md:20:développer
-content/10.content.md:20:différente
 content/10.content.md:20:différentes
 content/10.content.md:20:différentes
 content/10.content.md:20:différentes
 content/10.content.md:20:différentes
 content/10.content.md:20:différentes
+content/10.content.md:20:différents
 content/10.content.md:20:d’imaginer
 content/10.content.md:20:d’individus
 content/10.content.md:20:d'ingéniosité
@@ -714,6 +714,7 @@ content/10.content.md:20:peut
 content/10.content.md:20:peuvent
 content/10.content.md:20:peuvent
 content/10.content.md:20:photorécepteurs
+content/10.content.md:20:photorécepteurs
 content/10.content.md:20:possède
 content/10.content.md:20:possèdent
 content/10.content.md:20:pourrait
@@ -733,7 +734,6 @@ content/10.content.md:20:qui
 content/10.content.md:20:qui
 content/10.content.md:20:qui
 content/10.content.md:20:réaction
-content/10.content.md:20:récepteurs
 content/10.content.md:20:réfléchir
 content/10.content.md:20:règne
 content/10.content.md:20:reliés
@@ -999,7 +999,7 @@ content/10.content.md:30:bord
 content/10.content.md:30:bouger
 content/10.content.md:30:capter
 content/10.content.md:30:Ces
-content/10.content.md:30:cette
+content/10.content.md:30:cet
 content/10.content.md:30:coquille
 content/10.content.md:30:coquille
 content/10.content.md:30:couleurs
@@ -1214,7 +1214,7 @@ content/10.content.md:36:différentiellement
 content/10.content.md:36:d’inspiration
 content/10.content.md:36:directement
 content/10.content.md:36:donc
-content/10.content.md:36:d'ororgines
+content/10.content.md:36:d'origines
 content/10.content.md:36:d’une
 content/10.content.md:36:effet
 content/10.content.md:36:elle
@@ -1222,7 +1222,7 @@ content/10.content.md:36:énergie
 content/10.content.md:36:essentiel
 content/10.content.md:36:été
 content/10.content.md:36:être
-content/10.content.md:36:exemple
+content/10.content.md:36:évidence
 content/10.content.md:36:exemple
 content/10.content.md:36:exemple
 content/10.content.md:36:exemple
@@ -1258,7 +1258,7 @@ content/10.content.md:36:majeure
 content/10.content.md:36:Marseille
 content/10.content.md:36:même
 content/10.content.md:36:météorologiques
-content/10.content.md:36:militaire
+content/10.content.md:36:militaires
 content/10.content.md:36:mis
 content/10.content.md:36:modifiée
 content/10.content.md:36:montrer
@@ -1268,7 +1268,7 @@ content/10.content.md:36:notre
 content/10.content.md:36:nouvelle
 content/10.content.md:36:nouvelles
 content/10.content.md:36:nuages
-content/10.content.md:36:oeil
+content/10.content.md:36:œil
 content/10.content.md:36:ou
 content/10.content.md:36:parvient
 content/10.content.md:36:permettent
@@ -1276,7 +1276,7 @@ content/10.content.md:36:permettent
 content/10.content.md:36:permettre
 content/10.content.md:36:peuvent
 content/10.content.md:36:phénomène
-content/10.content.md:36:polarisant
+content/10.content.md:36:polarisants
 content/10.content.md:36:polarisé
 content/10.content.md:36:polarisée
 content/10.content.md:36:polarité
@@ -1344,6 +1344,7 @@ content/10.content.md:36:Viollet
 content/10.content.md:36:vitre
 content/10.content.md:36:voir
 content/10.content.md:36:voitures
+content/10.content.md:38:accompagné
 content/10.content.md:38:ainsi
 content/10.content.md:38:algorithmes
 content/10.content.md:38:appelée
@@ -1485,13 +1486,12 @@ content/10.content.md:38:sur
 content/10.content.md:38:sur
 content/10.content.md:38:sur
 content/10.content.md:38:surtout
-content/10.content.md:38:t'accompagné
 content/10.content.md:38:temporelle
 content/10.content.md:38:traditionnels
 content/10.content.md:38:traitement
 content/10.content.md:38:traiter
 content/10.content.md:38:traiter
-content/10.content.md:38:trasmises
+content/10.content.md:38:transmises
 content/10.content.md:38:une
 content/10.content.md:38:une
 content/10.content.md:38:une
@@ -1508,6 +1508,7 @@ content/10.content.md:41:caméras
 content/10.content.md:41:caméras
 content/10.content.md:41:caractère
 content/10.content.md:41:celui
+content/10.content.md:41:ces
 content/10.content.md:41:ces
 content/10.content.md:41:ces
 content/10.content.md:41:C’est
@@ -1542,11 +1543,10 @@ content/10.content.md:41:ou
 content/10.content.md:41:ou
 content/10.content.md:41:parallèle
 content/10.content.md:41:particulièrement
-content/10.content.md:41:processeur
+content/10.content.md:41:processeurs
 content/10.content.md:41:qui
 content/10.content.md:41:qu’ils
 content/10.content.md:41:répondre
-content/10.content.md:41:ses
 content/10.content.md:41:ses
 content/10.content.md:41:ses
 content/10.content.md:41:sur
@@ -1614,7 +1614,7 @@ content/10.content.md:45:étude
 content/10.content.md:45:étude
 content/10.content.md:45:exemple
 content/10.content.md:45:explorant
-content/10.content.md:45:exploré
+content/10.content.md:45:explorée
 content/10.content.md:45:façon
 content/10.content.md:45:fondamentales
 content/10.content.md:45:intérieur
@@ -1640,7 +1640,7 @@ content/10.content.md:45:permet
 content/10.content.md:45:personne
 content/10.content.md:45:peut
 content/10.content.md:45:peuvent
-content/10.content.md:45:pouvait
+content/10.content.md:45:pouvons
 content/10.content.md:45:qui
 content/10.content.md:45:regarder
 content/10.content.md:45:rentrant

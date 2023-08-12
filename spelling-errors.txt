@@ -1,6 +1,7 @@
 accélérations
 accepter
 accolés
+accompagné
 actif
 actifs
 activité
@@ -86,7 +87,7 @@ caractère
 caractéristique
 caractéristiques
 cas
-ceci
+Ceci
 Cela
 celle
 celles
@@ -97,7 +98,7 @@ certaines
 certains
 cerveau
 ces
-c’est
+C’est
 cet
 Cette
 ceux
@@ -126,7 +127,7 @@ CNRS
 coexiste
 collecter
 coloré
-Comme
+comme
 Commençons
 commodo
 commun
@@ -155,7 +156,7 @@ construire
 construit
 contexte
 contient
-continuement
+continûment
 contracte
 contractée
 contracter
@@ -184,10 +185,10 @@ d’abord
 d’Aix
 d’alimentation
 d’ancêtre
-Dans
+dans
 d’atteindre
 d’attention
-D’autres
+d’autres
 d’avoir
 décomposées
 découle
@@ -253,10 +254,10 @@ donc
 donnant
 dont
 d’orientation
-d’ororgines
+d’origines
 Duis
 d’un
-D’une
+d’une
 écologique
 effectuer
 effectués
@@ -267,7 +268,7 @@ eiusmod
 électroniques
 élémentaires
 elit
-Elle
+elle
 embarqués
 émerveiller
 énergie
@@ -293,6 +294,7 @@ essentiel
 étude
 études
 événementiel
+évidence
 évolué
 évoluer
 évolution
@@ -305,7 +307,7 @@ exotique
 explique
 expliquer
 explorant
-exploré
+explorée
 externe
 extraire
 fabricant
@@ -438,7 +440,7 @@ l’information
 l’iris
 l’objet
 l’obscurité
-L’œil
+l’œil
 l’on
 longtemps
 longue
@@ -471,7 +473,7 @@ météorologiques
 microorganismes
 MIDEX
 mieux
-militaire
+militaires
 mis
 modèle
 modifiée
@@ -527,7 +529,6 @@ observés
 observez
 occaecat
 oculaire
-oeil
 œil
 officia
 ondulée
@@ -583,7 +584,7 @@ plein
 plupart
 plusieurs
 plutôt
-polarisant
+polarisants
 polarisé
 polarisée
 polarité
@@ -594,7 +595,6 @@ possèdent
 potentiels
 pourrait
 poussant
-pouvait
 pouvoir
 pouvons
 précision
@@ -607,6 +607,7 @@ privilégiera
 probablement
 problèmes
 processeur
+processeurs
 proche
 prodiges
 produira
@@ -644,7 +645,6 @@ réactions
 récemment
 récente
 récentes
-récepteurs
 reçue
 réduire
 réfléchir
@@ -722,10 +722,10 @@ sphérique
 statique
 Stéphane
 suggérer
-suivant
+Suivant
 suivre
 sunt
-Sur
+sur
 sûrement
 surprenant
 surprenantes
@@ -733,9 +733,8 @@ surtout
 survie
 système
 systèmes
-t’accompagné
 technologie
-technologique
+technologiques
 telle
 tempor
 temporelle
@@ -749,8 +748,8 @@ traiter
 trajectoires
 transforme
 transmettre
+transmises
 transportée
-trasmises
 travers
 très
 trésors
