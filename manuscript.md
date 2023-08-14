@@ -5,7 +5,7 @@ keywords:
 - Anatomie
 - Modélisation neurale
 lang: fr-FR
-date-meta: '2023-08-13'
+date-meta: '2023-08-14'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Un zoo de yeux" />
   <meta property="og:title" content="Un zoo de yeux" />
   <meta property="twitter:title" content="Un zoo de yeux" />
-  <meta name="dc.date" content="2023-08-13" />
-  <meta name="citation_publication_date" content="2023-08-13" />
-  <meta property="article:published_time" content="2023-08-13" />
-  <meta name="dc.modified" content="2023-08-13T14:44:07+00:00" />
-  <meta property="article:modified_time" content="2023-08-13T14:44:07+00:00" />
+  <meta name="dc.date" content="2023-08-14" />
+  <meta name="citation_publication_date" content="2023-08-14" />
+  <meta property="article:published_time" content="2023-08-14" />
+  <meta name="dc.modified" content="2023-08-14T08:57:06+00:00" />
+  <meta property="article:modified_time" content="2023-08-14T08:57:06+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a0f3dfaa463ae5f01fdb7054ec8fc1149e1593e8/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a0f3dfaa463ae5f01fdb7054ec8fc1149e1593e8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a0f3dfaa463ae5f01fdb7054ec8fc1149e1593e8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/b2ce4959903d1eb02d74271ef5c4f64ff0e8f2b6/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/b2ce4959903d1eb02d74271ef5c4f64ff0e8f2b6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/b2ce4959903d1eb02d74271ef5c4f64ff0e8f2b6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a0f3dfaa463ae5f01fdb7054ec8fc1149e1593e8/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/b2ce4959903d1eb02d74271ef5c4f64ff0e8f2b6/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@a0f3dfa](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/a0f3dfaa463ae5f01fdb7054ec8fc1149e1593e8)
-on August 13, 2023.
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@b2ce495](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/b2ce4959903d1eb02d74271ef5c4f64ff0e8f2b6)
+on August 14, 2023.
 </em></small>
 
 
@@ -96,10 +96,7 @@ on August 13, 2023.
 :::
 
 
-## Résumé {.page_break_before}
-
 La plupart d'entre nous peut aisément et instantanément explorer le monde visible qui nous entoure grâce à nos yeux et à notre système visuel qui analyse ces informations. Toutefois, des problèmes en relation avec la vision sont fréquents, qu'il s'agisse de conditions comme l'hypermétropie ou la myopie, pouvant être corrigées par le port de lunettes. Cependant, des problèmes plus sévères existent, comme les affections rétiniennes liées à l'âge ou à des facteurs génétiques. Ce sont des conditions graves pouvant entraîner des handicaps importants. Mais au fond, comment fonctionne le mécanisme des yeux ? Quelle est l'origine de ces problèmes potentiels ? Quelles leçons pouvons-nous tirer de la diversité des structures oculaires présentes dans le règne animal ? Est-il possible de remonter aux origines de leur évolution pour comprendre comment les yeux ont émergé au fil de l'évolution du monde vivant ?
-
 
 ## L’œil humain
 
@@ -156,10 +153,4 @@ L'utilisation de ces caméras représente un changement de paradigme car, contra
 Cette compréhension a des implications profondes, tant du point de vue de la recherche fondamentale que de l'application technologique. Elle nous pousse à élargir notre vision de ce qui est possible de réaliser en matière de conception de systèmes visuels, en nous inspirant de la nature pour créer des solutions innovantes, plutôt que de se limiter à l'amélioration de modèles basés sur la simple analogie de l'appareil photo. Les découvertes sur les systèmes visuels des animaux, associées aux avancées technologiques telles que les caméras événementielles, ouvrent des perspectives passionnantes dans des domaines tels que la robotique, la navigation autonome et le traitement des images. En fin de compte, cette compréhension approfondie de la vision dans le règne animal peut servir d'inspiration pour repousser les limites de la technologie et de la compréhension scientifique.
 
 L'exploration que nous venons de faire de la diversité des yeux dans le règne animal nous a permis une interaction riche entre les connaissances fondamentales et appliquées dans le domaine de la vision. Les différentes anatomies oculaires que nous avons étudiées révèlent aussi que chaque système visuel est adapté à un ensemble spécifique de comportements et d'environnements. Bien que certaines de ces inventions puissent sembler aussi complexes que les machines créées par les mains d'un horloger, le point essentiel réside dans le fait que les yeux aient évolué indépendamment à plusieurs reprises sans avoir besoin de recourir à l'existence d'un dessein intelligent, mettant ainsi en lumière la diversité des solutions émergentes résultant des mécanismes évolutifs du vivant.
-
-
-## References {.page_break_before}
-
-<!-- Explicitly insert bibliography here -->
-<div id="refs"></div>
 

@@ -9,7 +9,7 @@ AgileNeuroBot
 agissant
 aider
 aient
-ainsi
+Ainsi
 aisément
 Aix
 algorithmes
@@ -75,7 +75,7 @@ caractéristique
 caractéristiques
 cas
 ceci
-cela
+Cela
 Celles
 cellules
 celui
@@ -85,10 +85,10 @@ certainement
 certaines
 certains
 cerveau
-ces
+Ces
 c’est
 cet
-cette
+Cette
 chacune
 changement
 changements
@@ -106,7 +106,7 @@ classiques
 clignement
 CNRS
 coloré
-Comme
+comme
 Commençons
 commun
 communiquer
@@ -121,7 +121,7 @@ composante
 composé
 compréhension
 comprend
-Comprendre
+comprendre
 compte
 concentrant
 concepteur
@@ -134,7 +134,7 @@ constitue
 constitués
 contient
 continu
-Contractée
+contractée
 contractent
 contracter
 contrairement
@@ -179,7 +179,7 @@ déplacer
 dérivent
 déroule
 derrière
-des
+Des
 désert
 dessein
 détecter
@@ -406,7 +406,7 @@ l’instar
 l’iris
 l’objet
 l’obscurité
-l’œil
+L’œil
 l’on
 longtemps
 l’organe
@@ -424,7 +424,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-Mais
+mais
 majeures
 manière
 manuscrite
@@ -573,7 +573,7 @@ Quelle
 qu’elles
 Quelles
 quelques
-Qui
+qui
 qu’il
 qu’ils
 radicalement
@@ -612,7 +612,6 @@ ressemblant
 ressemble
 reste
 résultant
-Résumé
 résument
 rétine
 rétinienne
@@ -727,6 +726,6 @@ vivant
 voisin
 voitures
 volants
-Vu
+vu
 vue
 yeux
