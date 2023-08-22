@@ -37,6 +37,7 @@ content/10.content.md:1:l'âge
 content/10.content.md:1:leçons
 content/10.content.md:1:leur
 content/10.content.md:1:l'évolution
+content/10.content.md:1:l'évolution
 content/10.content.md:1:l'hypermétropie
 content/10.content.md:1:liées
 content/10.content.md:1:l'origine
@@ -81,6 +82,7 @@ content/10.content.md:1:vivant
 content/10.content.md:1:yeux
 content/10.content.md:1:yeux
 content/10.content.md:1:yeux
+content/10.content.md:3:d'œuvre
 content/10.content.md:3:humain
 content/10.content.md:3:L’œil
 content/10.content.md:3:œil
@@ -530,7 +532,6 @@ content/10.content.md:27:des
 content/10.content.md:27:d'étendre
 content/10.content.md:27:deux
 content/10.content.md:27:distincte
-content/10.content.md:27:elles
 content/10.content.md:27:espèces
 content/10.content.md:27:étonnante
 content/10.content.md:27:évolution
@@ -710,7 +711,10 @@ content/10.content.md:31:uniquement
 content/10.content.md:31:variés
 content/10.content.md:33:D’autres
 content/10.content.md:33:des
+content/10.content.md:33:des
 content/10.content.md:33:facettes
+content/10.content.md:33:Mouches
+content/10.content.md:33:Panoramique
 content/10.content.md:33:yeux
 content/10.content.md:35:aient
 content/10.content.md:35:allongés
@@ -748,6 +752,7 @@ content/10.content.md:35:indépendantes
 content/10.content.md:35:juxtaposés
 content/10.content.md:35:l'arbre
 content/10.content.md:35:leurs
+content/10.content.md:35:l'évolution
 content/10.content.md:35:l'évolution
 content/10.content.md:35:l'on
 content/10.content.md:35:mais
@@ -987,11 +992,9 @@ content/10.content.md:41:yeux
 content/10.content.md:41:yeux
 content/10.content.md:41:yeux
 content/10.content.md:41:yeux
-content/10.content.md:43:compréhension
-content/10.content.md:43:l'imitation
-content/10.content.md:43:L'inspiration
-content/10.content.md:43:technologie
-content/10.content.md:43:vivant
+content/10.content.md:43:Des
+content/10.content.md:43:Révolutionnaires
+content/10.content.md:43:S'Inspirer
 content/10.content.md:45:ainsi
 content/10.content.md:45:approche
 content/10.content.md:45:araignée
@@ -1284,9 +1287,9 @@ content/10.content.md:51:traitement
 content/10.content.md:51:traitent
 content/10.content.md:51:une
 content/10.content.md:51:véhicules
-content/10.content.md:53:cette
-content/10.content.md:53:compréhension
-content/10.content.md:53:L'impact
+content/10.content.md:53:Évolution
+content/10.content.md:53:L'Évolution
+content/10.content.md:53:L'Évolution
 content/10.content.md:55:analogie
 content/10.content.md:55:animaux
 content/10.content.md:55:approfondie

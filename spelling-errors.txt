@@ -56,7 +56,7 @@ basés
 basique
 beaucoup
 besoin
-bien
+Bien
 biologie
 biseau
 bleu
@@ -75,7 +75,7 @@ caractéristique
 caractéristiques
 cas
 ceci
-Cela
+cela
 Celles
 cellules
 celui
@@ -88,7 +88,7 @@ cerveau
 Ces
 c’est
 cet
-Cette
+cette
 chacune
 changement
 changements
@@ -216,6 +216,7 @@ dites
 diverses
 diversité
 d’œil
+d’œuvre
 doivent
 domaine
 domaines
@@ -238,7 +239,7 @@ efficacité
 électroniques
 élémentaire
 éléments
-elle
+Elle
 elles
 embarqués
 émergé
@@ -252,7 +253,7 @@ entoure
 entouré
 entraîner
 entre
-Environ
+environ
 environnement
 environnemental
 envoient
@@ -329,7 +330,7 @@ horizontale
 horloge
 horloger
 hors
-humain
+Humain
 humains
 humidité
 hypothèse
@@ -386,6 +387,7 @@ leur
 leurs
 l’éviter
 l’évolution
+L’Évolution
 L’exemple
 l’existence
 L’exploration
@@ -395,18 +397,15 @@ l’hypermétropie
 l’idée
 liées
 liés
-l’imitation
 limites
-L’impact
 L’information
 l’ingénierie
 l’ingéniosité
-L’inspiration
 l’instar
 l’iris
 l’objet
 l’obscurité
-L’œil
+l’œil
 l’on
 longtemps
 l’organe
@@ -455,7 +454,7 @@ morphologies
 moteurs
 motrices
 mouche
-mouches
+Mouches
 moutons
 mouvement
 mouvements
@@ -475,7 +474,7 @@ neurones
 Neurosciences
 n’importe
 nombreux
-Notre
+notre
 N’oublions
 nourriture
 nouvelle
@@ -496,7 +495,7 @@ ou
 où
 ouvrent
 pâlir
-panoramique
+Panoramique
 paradigme
 paradoxe
 parallélisé
@@ -564,7 +563,7 @@ prunelle
 puces
 puissent
 pupille
-Pupilles
+pupilles
 quand
 quantité
 quel
@@ -619,6 +618,7 @@ rétiniennes
 revanche
 révèlent
 révolution
+Révolutionnaires
 révolutionner
 riche
 richesse
@@ -650,6 +650,7 @@ similaire
 simplement
 singulière
 S’inspirant
+S’Inspirer
 soleil
 sommes
 sommet
@@ -667,7 +668,7 @@ suggèrent
 suivre
 s’unissent
 supérieure
-Sur
+sur
 surprenant
 surtout
 survie
@@ -726,6 +727,6 @@ vivant
 voisin
 voitures
 volants
-vu
+Vu
 vue
 yeux
