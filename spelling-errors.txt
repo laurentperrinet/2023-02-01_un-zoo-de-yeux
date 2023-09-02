@@ -51,10 +51,9 @@ avons
 ayant
 bandes
 basés
-beaucoup
 besoin
 biais
-Bien
+bien
 biomorphique
 biseau
 bleu
@@ -66,6 +65,7 @@ calcul
 caméras
 camoufler
 capables
+capterus
 capteur
 capturer
 caractéristique
@@ -83,10 +83,10 @@ certainement
 certaines
 certains
 cerveau
-Ces
+ces
 c’est
 cet
-cette
+Cette
 chacune
 changement
 changements
@@ -104,7 +104,7 @@ classiques
 clignement
 CNRS
 coloré
-comme
+Comme
 Commençons
 commun
 communiquer
@@ -119,7 +119,7 @@ composante
 composé
 compréhension
 comprenand
-Comprendre
+comprendre
 compte
 concentre
 concepteur
@@ -133,7 +133,7 @@ constitue
 constitués
 contient
 continu
-contractée
+Contractée
 contractent
 contracter
 contrairement
@@ -153,7 +153,7 @@ curiosité
 d’abord
 d’Aix
 d’ancêtre
-Dans
+dans
 d’autre
 D’autres
 davantage
@@ -171,11 +171,12 @@ d’en
 d’énergie
 d’envie
 d’environnements
+dépasse
 déplacer
 dérivent
 déroule
 derrière
-Des
+des
 désert
 dessein
 détecter
@@ -220,6 +221,7 @@ dotés
 d’un
 d’une
 d’yeux
+dynamiques
 écologique
 écologiques
 effet
@@ -248,6 +250,7 @@ environ
 environnement
 environnemental
 envoient
+épanouie
 équipe
 espèce
 espèces
@@ -284,6 +287,7 @@ fente
 feraient
 fil
 filtrée
+finement
 focalisation
 focaliser
 fois
@@ -306,7 +310,7 @@ générations
 génère
 génèrent
 Globalement
-Grâce
+grâce
 graduellement
 gramme
 grande
@@ -345,6 +349,7 @@ instantanément
 Institut
 intelligente
 Intéressons
+intervalles
 inventé
 inventés
 jouer
@@ -357,11 +362,11 @@ l’application
 l’approche
 laquelle
 l’arbre
+largement
 larmes
 l’attention
 laurentperrinet
 l’avons
-l’échelle
 leçons
 légèrement
 l’émergence
@@ -385,7 +390,6 @@ l’humain
 l’idée
 liés
 limites
-L’information
 l’ingénierie
 l’ingéniosité
 l’instar
@@ -397,6 +401,7 @@ l’obscurité
 l’œil
 l’on
 longtemps
+l’ordre
 l’organe
 l’organisme
 lorsque
@@ -428,6 +433,7 @@ microorganismes
 microseconde
 MIDEX
 mieux
+mille
 mises
 modèles
 modifient
@@ -461,7 +467,7 @@ n’importe
 nombreuses
 nombreux
 notamment
-Notre
+notre
 nourriture
 nouveaux
 nouvelle
@@ -509,6 +515,7 @@ peuvent
 photorécepteurs
 photosensible
 phototactique
+placé
 plein
 plusieurs
 plutôt
@@ -523,7 +530,6 @@ pousse
 pouvant
 pouvons
 précieux
-précise
 précision
 prédateurs
 présente
@@ -573,6 +579,7 @@ réfléchir
 réglée
 règne
 régulière
+réguliers
 relativement
 relie
 remarquables
@@ -580,12 +587,11 @@ remontant
 remonte
 remonter
 repérer
-répondre
+Répondre
 réponse
 repousser
 représentation
 représente
-représentée
 représentées
 représenter
 réside
@@ -609,10 +615,12 @@ ronde
 s’accompagne
 s’adapter
 s’avère
+scènes
 scientifique
 seconde
 seiche
 sélection
+sélectivemnt
 selon
 semble
 semblent
@@ -621,6 +629,7 @@ sensibles
 séquentiellement
 servir
 ses
+s’est
 seule
 seules
 sévères
@@ -628,7 +637,6 @@ similaire
 simplement
 singulière
 S’inspirant
-s’inspirent
 S’Inspirer
 soleil
 sommes
@@ -703,6 +711,6 @@ vivant
 voisin
 voitures
 volants
-vu
+Vu
 vue
 yeux
