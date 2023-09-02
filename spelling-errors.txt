@@ -53,7 +53,7 @@ bandes
 basés
 besoin
 biais
-bien
+Bien
 biomorphique
 biseau
 bleu
@@ -83,10 +83,10 @@ certainement
 certaines
 certains
 cerveau
-ces
-c’est
+Ces
+C’est
 cet
-Cette
+cette
 chacune
 changement
 changements
@@ -133,7 +133,7 @@ constitue
 constitués
 contient
 continu
-Contractée
+contractée
 contractent
 contracter
 contrairement
@@ -233,11 +233,11 @@ efficacité
 électroniques
 élémentaire
 éléments
-elle
+Elle
 elles
 embarqués
 émergé
-émergentes
+émergeant
 émerveillement
 énergétique
 énergie
@@ -277,6 +277,7 @@ extraire
 extrême
 extrêmement
 facettes
+façon
 faible
 faire
 fait
@@ -310,7 +311,7 @@ générations
 génère
 génèrent
 Globalement
-grâce
+Grâce
 graduellement
 gramme
 grande
@@ -358,7 +359,6 @@ juxtaposés
 l’action
 l’amélioration
 l’appareil
-l’application
 l’approche
 laquelle
 l’arbre
@@ -467,7 +467,7 @@ n’importe
 nombreuses
 nombreux
 notamment
-notre
+Notre
 nourriture
 nouveaux
 nouvelle
@@ -489,7 +489,7 @@ ou
 où
 ouvrent
 pâlir
-panoramique
+Panoramique
 paradigme
 paradoxe
 parallélisé
@@ -598,7 +598,6 @@ réside
 ressemblant
 ressemble
 reste
-résultant
 résument
 rétine
 rétiniennes
@@ -646,6 +645,7 @@ souvent
 spécifique
 spécifiques
 sphérique
+spontanée
 statique
 statut
 Stéphane
@@ -665,7 +665,6 @@ système
 systèmes
 tant
 technologie
-technologique
 technologiques
 telles
 tels
@@ -711,6 +710,6 @@ vivant
 voisin
 voitures
 volants
-Vu
+vu
 vue
 yeux

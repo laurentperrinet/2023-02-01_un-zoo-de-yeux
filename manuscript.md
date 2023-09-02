@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-02" />
   <meta name="citation_publication_date" content="2023-09-02" />
   <meta property="article:published_time" content="2023-09-02" />
-  <meta name="dc.modified" content="2023-09-02T09:42:23+00:00" />
-  <meta property="article:modified_time" content="2023-09-02T09:42:23+00:00" />
+  <meta name="dc.modified" content="2023-09-02T09:45:05+00:00" />
+  <meta property="article:modified_time" content="2023-09-02T09:45:05+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4b3cb2c0f47731d5515a1ce2e2dff303fda3c4e5/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4b3cb2c0f47731d5515a1ce2e2dff303fda3c4e5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4b3cb2c0f47731d5515a1ce2e2dff303fda3c4e5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4b3cb2c0f47731d5515a1ce2e2dff303fda3c4e5/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@4b3cb2c](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/4b3cb2c0f47731d5515a1ce2e2dff303fda3c4e5)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@0045e7c](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/0045e7cff91a48c8605163775378ed1ffa68d0ba)
 on September 2, 2023.
 </em></small>
 
@@ -148,7 +148,7 @@ L'utilisation de ces caméras représente un changement de paradigme car, contra
 
 ## L'Évolution en Action
 
-Cette compréhension a des implications profondes, tant du point de vue de la recherche fondamentale que de l'application technologique. Elle nous pousse à élargir notre vision de ce qui est possible de réaliser en matière de conception de systèmes visuels, en nous inspirant de la nature pour créer des solutions innovantes, plutôt que de se limiter à l'amélioration de modèles basés sur la simple analogie de l'appareil photo. Les découvertes sur les systèmes visuels des animaux, associées aux avancées technologiques telles que les caméras événementielles, ouvrent des perspectives passionnantes dans des domaines tels que la robotique, la navigation autonome et le traitement des images. En fin de compte, cette compréhension approfondie de la vision dans le règne animal peut servir d'inspiration pour repousser les limites de la technologie et de la compréhension scientifique.
+Cette compréhension a des implications profondes, tant du point de vue des applications technologiques que de la recherche fondamentale. Elle nous pousse à élargir notre vision de ce qui est possible de réaliser en matière de conception de systèmes visuels, en nous inspirant de la nature pour créer des solutions innovantes, plutôt que de se limiter à l'amélioration de modèles basés sur la simple analogie de l'appareil photo. Les découvertes sur les systèmes visuels des animaux, associées aux avancées technologiques telles que les caméras événementielles, ouvrent des perspectives passionnantes dans des domaines tels que la robotique, la navigation autonome et le traitement des images, notamment dynamiques. En fin de compte, cette compréhension approfondie de la vision dans le règne animal peut servir d'inspiration pour repousser les limites de la technologie et de la compréhension scientifique.
 
-L'exploration que nous venons de faire de la diversité des yeux dans le règne animal nous a permis une interaction riche entre les connaissances fondamentales et appliquées dans le domaine de la vision. Les différentes anatomies oculaires révèlent aussi que chaque système visuel est adapté à un ensemble bien spécifique de comportements et d'environnements. Bien que certaines de ces inventions puissent sembler aussi complexes que les machines créées par les mains d'un horloger, le point essentiel réside dans le fait que les yeux aient évolué indépendamment à plusieurs reprises sans avoir besoin de recourir à l'existence d'un dessein intelligent, mettant ainsi en lumière la diversité des solutions émergentes résultant des mécanismes évolutifs du vivant.
+L'exploration que nous venons de faire de la diversité des yeux dans le règne animal nous a permis une interaction riche entre les connaissances fondamentales et appliquées dans le domaine de la vision. Les différentes anatomies oculaires révèlent aussi que chaque système visuel est adapté à un ensemble bien spécifique de comportements et d'environnements. Bien que certaines de ces inventions puissent sembler aussi complexes que les machines créées par les mains d'un horloger, le point essentiel réside dans le fait que les yeux aient évolué indépendamment à plusieurs reprises sans avoir besoin de recourir à l'existence d'un dessein intelligent, mettant ainsi en lumière la diversité des solutions émergeant de façon spontanée des mécanismes évolutifs du vivant.
 
