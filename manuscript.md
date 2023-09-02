@@ -5,7 +5,7 @@ keywords:
 - Anatomie
 - Modélisation neurale
 lang: fr-FR
-date-meta: '2023-08-22'
+date-meta: '2023-09-02'
 author-meta:
 - Laurent U Perrinet
 header-includes: |
@@ -19,11 +19,11 @@ header-includes: |
   <meta name="citation_title" content="Un zoo de yeux" />
   <meta property="og:title" content="Un zoo de yeux" />
   <meta property="twitter:title" content="Un zoo de yeux" />
-  <meta name="dc.date" content="2023-08-22" />
-  <meta name="citation_publication_date" content="2023-08-22" />
-  <meta property="article:published_time" content="2023-08-22" />
-  <meta name="dc.modified" content="2023-08-22T09:20:21+00:00" />
-  <meta property="article:modified_time" content="2023-08-22T09:20:21+00:00" />
+  <meta name="dc.date" content="2023-09-02" />
+  <meta name="citation_publication_date" content="2023-09-02" />
+  <meta property="article:published_time" content="2023-09-02" />
+  <meta name="dc.modified" content="2023-09-02T09:22:45+00:00" />
+  <meta property="article:modified_time" content="2023-09-02T09:22:45+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9c43ca2fa3e8f5f4676fdc41010e445bf522aa8f/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9c43ca2fa3e8f5f4676fdc41010e445bf522aa8f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9c43ca2fa3e8f5f4676fdc41010e445bf522aa8f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/33af56dcffc01afba3db0f854c7bdc19b9a62820/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/33af56dcffc01afba3db0f854c7bdc19b9a62820/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/33af56dcffc01afba3db0f854c7bdc19b9a62820/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,10 +63,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9c43ca2fa3e8f5f4676fdc41010e445bf522aa8f/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/33af56dcffc01afba3db0f854c7bdc19b9a62820/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@9c43ca2](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/9c43ca2fa3e8f5f4676fdc41010e445bf522aa8f)
-on August 22, 2023.
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@33af56d](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/33af56dcffc01afba3db0f854c7bdc19b9a62820)
+on September 2, 2023.
 </em></small>
 
 
@@ -96,7 +96,7 @@ on August 22, 2023.
 :::
 
 
-La plupart d'entre nous peut aisément et instantanément explorer le monde visible qui nous entoure grâce à nos yeux et l'ensemble de notre système visuel. Toutefois, des problèmes en relation avec la vision sont fréquents, et si certains peuvent être corrigées par le port de lunettes, des problèmes plus sévères existent, comme les affections rétiniennes pouvant entraîner des handicaps importants. Mais au fond, comment fonctionne nos yeux ? Quelles leçons pouvons-nous tirer de la diversité des structures oculaires présentes dans le règne animal ? Est-il possible de remonter aux origines de leur évolution pour comprendre comment les yeux ont émergé au fil de l'évolution du monde vivant ?
+Grâce à nos yeux, l'organe sensible de la vision, nous pouvons aisément et instantanément explorer le monde visible qui nous entoure. C'est littéralement un miracle que la vision opère sans effort et naturellement malgré la complexité des processus impliqués. Toutefois, des problèmes en relation avec la vision sont fréquents, et si certains peuvent être corrigées par le port de lunettes, des problèmes plus sévères existent, comme les affections rétiniennes pouvant entraîner des handicaps importants. Mais au fond, comment fonctionne nos yeux ? Quelles leçons pouvons-nous tirer de la diversité des structures oculaires présentes dans le règne animal ? Est-il possible de remonter aux origines de leur évolution pour comprendre comment les yeux ont émergé au fil de l'évolution du monde vivant ?
 
 ## L’œil humain : Un chef-d'œuvre de la Nature
 

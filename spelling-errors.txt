@@ -83,10 +83,10 @@ certainement
 certaines
 certains
 cerveau
-ces
+Ces
 c’est
 cet
-Cette
+cette
 chacune
 changement
 changements
@@ -104,7 +104,7 @@ classiques
 clignement
 CNRS
 coloré
-Comme
+comme
 Commençons
 commun
 communiquer
@@ -133,7 +133,7 @@ constitue
 constitués
 contient
 continu
-contractée
+Contractée
 contractent
 contracter
 contrairement
@@ -169,14 +169,13 @@ d’emblée
 démontrant
 d’en
 d’énergie
-d’entre
 d’envie
 d’environnements
 déplacer
 dérivent
 déroule
 derrière
-des
+Des
 désert
 dessein
 détecter
@@ -245,7 +244,7 @@ entoure
 entouré
 entraîner
 entre
-environ
+Environ
 environnement
 environnemental
 envoient
@@ -306,7 +305,7 @@ générations
 génère
 génèrent
 Globalement
-grâce
+Grâce
 graduellement
 gramme
 grande
@@ -317,7 +316,7 @@ hiérarchie
 horizontale
 horloge
 horloger
-Humain
+humain
 humains
 humidité
 hypothèse
@@ -327,6 +326,7 @@ Ils
 imiter
 immédiat
 impératifs
+impliqués
 importants
 impressionnantes
 inaccessibles
@@ -388,9 +388,10 @@ l’ingénierie
 l’ingéniosité
 l’instar
 l’iris
+littéralement
 l’objet
 l’obscurité
-l’œil
+L’œil
 l’on
 longtemps
 l’organe
@@ -407,7 +408,8 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-mais
+Mais
+malgré
 manière
 manuscrite
 Marseille
@@ -457,7 +459,7 @@ n’importe
 nombreuses
 nombreux
 notamment
-notre
+Notre
 nourriture
 nouveaux
 nouvelle
@@ -470,6 +472,7 @@ oculaire
 oculaires
 œil
 ondulée
+opère
 optique
 optiques
 organisées
@@ -478,7 +481,7 @@ ou
 où
 ouvrent
 pâlir
-Panoramique
+panoramique
 paradigme
 paradoxe
 parallélisé
@@ -505,7 +508,6 @@ photorécepteurs
 photosensible
 phototactique
 plein
-plupart
 plusieurs
 plutôt
 Polychronies
@@ -532,6 +534,7 @@ presque
 pressions
 probablement
 problèmes
+processus
 proche
 produire
 profondes
@@ -576,7 +579,7 @@ remontant
 remonte
 remonter
 repérer
-répondre
+Répondre
 réponse
 repousser
 représentation
@@ -679,7 +682,7 @@ transversale
 très
 trouve
 trouvent
-une
+Une
 uniforme
 Université
 utile
