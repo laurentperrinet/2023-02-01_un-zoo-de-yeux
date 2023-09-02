@@ -1,7 +1,6 @@
 accélérations
 accepter
 accomplir
-acheminer
 activité
 adapté
 adoptent
@@ -9,7 +8,7 @@ AgileNeuroBot
 agissant
 aider
 aient
-Ainsi
+ainsi
 aisément
 Aix
 algorithmes
@@ -55,7 +54,7 @@ basés
 beaucoup
 besoin
 biais
-bien
+Bien
 biomorphique
 biseau
 bleu
@@ -73,7 +72,8 @@ caractéristique
 caractéristiques
 cas
 ceci
-Cela
+cela
+celle
 Celles
 cellules
 celui
@@ -83,8 +83,8 @@ certainement
 certaines
 certains
 cerveau
-Ces
-c’est
+ces
+C’est
 cet
 cette
 chacune
@@ -153,7 +153,7 @@ curiosité
 d’abord
 d’Aix
 d’ancêtre
-Dans
+dans
 d’autre
 D’autres
 davantage
@@ -175,7 +175,7 @@ déplacer
 dérivent
 déroule
 derrière
-Des
+des
 désert
 dessein
 détecter
@@ -244,7 +244,7 @@ entoure
 entouré
 entraîner
 entre
-Environ
+environ
 environnement
 environnemental
 envoient
@@ -305,7 +305,7 @@ générations
 génère
 génèrent
 Globalement
-Grâce
+grâce
 graduellement
 gramme
 grande
@@ -367,6 +367,7 @@ l’émergence
 l’énergie
 l’ensemble
 lentille
+lequel
 l’espèce
 lettre
 l’étude
@@ -391,14 +392,13 @@ l’iris
 littéralement
 l’objet
 l’obscurité
-L’œil
+l’œil
 l’on
 longtemps
 l’organe
 l’organisme
 lorsque
 lueur
-lui
 lumière
 luminance
 lumineux
@@ -408,7 +408,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-Mais
+mais
 malgré
 manière
 manuscrite
@@ -481,7 +481,7 @@ ou
 où
 ouvrent
 pâlir
-panoramique
+Panoramique
 paradigme
 paradoxe
 parallélisé
@@ -529,7 +529,6 @@ présente
 présentent
 présenter
 présentes
-présents
 presque
 pressions
 probablement
@@ -542,12 +541,13 @@ profondeur
 proie
 propre
 propriété
+protégé
 prunelle
 puces
 puis
 puissent
 pupille
-pupilles
+Pupilles
 quand
 quantité
 quel
@@ -623,7 +623,6 @@ ses
 seule
 seules
 sévères
-signaux
 similaire
 simplement
 singulière
@@ -666,7 +665,6 @@ tendance
 tête
 Timone
 tirer
-tissu
 tous
 Toutefois
 toutes
@@ -675,14 +673,13 @@ traitement
 traitent
 trajectoires
 transformées
-transforment
 transmettent
 transmettre
 transversale
 très
 trouve
 trouvent
-Une
+une
 uniforme
 Université
 utile

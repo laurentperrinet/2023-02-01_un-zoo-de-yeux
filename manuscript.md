@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-02" />
   <meta name="citation_publication_date" content="2023-09-02" />
   <meta property="article:published_time" content="2023-09-02" />
-  <meta name="dc.modified" content="2023-09-02T09:22:45+00:00" />
-  <meta property="article:modified_time" content="2023-09-02T09:22:45+00:00" />
+  <meta name="dc.modified" content="2023-09-02T09:29:52+00:00" />
+  <meta property="article:modified_time" content="2023-09-02T09:29:52+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/33af56dcffc01afba3db0f854c7bdc19b9a62820/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/33af56dcffc01afba3db0f854c7bdc19b9a62820/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/33af56dcffc01afba3db0f854c7bdc19b9a62820/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1916875d534063e390c610388ec847b49dd9fa2d/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1916875d534063e390c610388ec847b49dd9fa2d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1916875d534063e390c610388ec847b49dd9fa2d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/33af56dcffc01afba3db0f854c7bdc19b9a62820/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1916875d534063e390c610388ec847b49dd9fa2d/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@33af56d](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/33af56dcffc01afba3db0f854c7bdc19b9a62820)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@1916875](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/1916875d534063e390c610388ec847b49dd9fa2d)
 on September 2, 2023.
 </em></small>
 
@@ -96,20 +96,20 @@ on September 2, 2023.
 :::
 
 
-Grâce à nos yeux, l'organe sensible de la vision, nous pouvons aisément et instantanément explorer le monde visible qui nous entoure. C'est littéralement un miracle que la vision opère sans effort et naturellement malgré la complexité des processus impliqués. Toutefois, des problèmes en relation avec la vision sont fréquents, et si certains peuvent être corrigées par le port de lunettes, des problèmes plus sévères existent, comme les affections rétiniennes pouvant entraîner des handicaps importants. Mais au fond, comment fonctionne nos yeux ? Quelles leçons pouvons-nous tirer de la diversité des structures oculaires présentes dans le règne animal ? Est-il possible de remonter aux origines de leur évolution pour comprendre comment les yeux ont émergé au fil de l'évolution du monde vivant ?
+Grâce à nos yeux, l'organe sensible de la vision, nous pouvons aisément et instantanément explorer le monde visible qui nous entoure. C'est littéralement un miracle que la vision opère sans effort malgré la complexité des processus impliqués. Toutefois, des problèmes en relation avec la vision sont fréquents, et si certains peuvent être corrigées par le port de lunettes, des problèmes plus sévères existent, comme les affections rétiniennes pouvant entraîner des handicaps importants. Mais au fond, comment fonctionne nos yeux ? Quelles leçons pouvons-nous tirer de la diversité des structures oculaires présentes dans le règne animal ? Est-il possible de remonter aux origines de leur évolution pour comprendre comment les yeux ont émergé au fil de l'évolution du monde vivant ?
 
 ## L’œil humain : Un chef-d'œuvre de la Nature
 
-L'œil humain, l'organe sensible de notre vision, suscite un émerveillement immédiat quand on considère son fonctionnement ingénieux. Penchons-nous sur quelques caractéristiques de la vision qui nous semblent naturelles, mais qui feraient pâlir d'envie n'importe quel concepteur de caméras artificielles. En effet, notre vision nous permet de capturer en continu des images en couleur haute définition avec une relative perception de la profondeur. Notre œil peut fonctionner dans des conditions de lumière variées, du plein soleil à la lueur de la lune, et s'adapter à différentes situations de visibilité. Tout cela se déroule de manière autonome, avec une consommation d'énergie relativement faible par rapport à n'importe quel dispositif artificiel.
+L'œil humain suscite un émerveillement immédiat quand on considère son fonctionnement ingénieux. Penchons-nous sur quelques caractéristiques de la vision qui nous semblent naturelles, mais qui feraient pâlir d'envie n'importe quel concepteur de caméras artificielles. En effet, notre vision nous permet de capturer en continu des images de millions de couleurs en haute définition avec en bonus une relative perception de la profondeur. Notre œil peut fonctionner dans des conditions de lumière variées, du plein soleil à la lueur de la lune, et s'adapter à différentes situations de visibilité. Tout cela se déroule de manière autonome, avec une consommation d'énergie relativement faible par rapport à n'importe quel dispositif artificiel.
 
 ![
 **Anatomie de l'œil humain.**
 La vue de face montre le globe oculaire entouré des paupières avec l'ouverture de la pupille, contractée par les muscles de l'iris. La vue en coupe illustre le passage de la lumière de la cornée, sa focalisation par le cristallin d'une image sur la rétine. Cette surface contient des neurones sensibles à la lumière ainsi que plusieurs couches de traitement qui permettent de transmettre cette information au cerveau par le nerf optique.
 ](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Pupilles d'humain, chat, mouton et seiche."){#fig:pupilles}
 
-Vu de l'extérieur et de face, l'œil présente le globe oculaire, entouré par les paupières, et au centre se trouve la pupille, autour de laquelle l'iris coloré peut se dilater ou se contracter selon la luminosité ou l'attention. La forme de globe sphérique lui permet de réaliser des mouvements rapides de rotation et diriger le regard vers des points d'intérêt. Une coupe transversale permet de suivre le parcours de la lumière : elle traverse d'abord une surface bombée, la cornée, puis le cristallin, une lentille qui concentre les rayons lumineux sur le fond de l'œil. Sur cette surface réside un tissu qui représente le composant sensible de l'œil, la rétine.
+Vu de l'extérieur et de face, l'œil présente le globe oculaire, protégé par les paupières, et dans son axe central se trouve la pupille, autour de laquelle l'iris coloré peut se dilater ou se contracter selon la luminosité ou l'attention. La forme de globe sphérique permet de réaliser des mouvements rapides de rotation et diriger le regard vers des points d'intérêt. La coupe transversale permet de suivre le parcours de la lumière : celle-ci traverse d'abord une surface bombée, la cornée, puis le cristallin, une lentille qui concentre les rayons lumineux sur le fond de l'œil, sur lequel réside le composant sensible de l'œil, la rétine.
 
-Dans la rétine se trouvent de nombreux neurones sensibles à la lumière qui transforment ces signaux pour les acheminer vers le cerveau. Environ 100 millions de photorécepteurs sont présents qui convertissent l'énergie électromagnétique portée par les photons en réactions électrochimiques. Celles-ci génèrent une activité neuronale qui passe par différentes couches de traitement pour converger vers les quelques 1,5 million de cellules ganglionnaires dont les sorties s'unissent pour former le nerf optique, reliant ainsi la rétine au reste du cerveau. De fait, la rétine est la seule portion du cerveau que nous pouvons directement observer !
+Dans la rétine se trouvent environ 100 millions de photorécepteurs qui convertissent l'énergie électromagnétique portée par les photons en réactions électrochimiques. Celles-ci génèrent une activité neuronale qui passe par différentes couches de traitement pour converger vers les quelques 1,5 million de cellules ganglionnaires dont les sorties s'unissent pour former le nerf optique, reliant ainsi la rétine au reste du cerveau. De fait, la rétine est la seule portion du cerveau que nous pouvons directement observer !
 
 Mais nos yeux ne se résument pas simplement à ça ! Une complexité incroyable réside autour des yeux pour permettre son mouvement, maintenir son humidité par les larmes ou accomplir un simple clignement. Globalement, cet ensemble ressemble à une mécanique parfaitement réglée, presque comme une horloge, une analogie souvent utilisée pour justifier l'idée d'une conception intelligente derrière nos yeux : "Comment aurait-il pu en être autrement ?" Répondre à cet argument n'est pas évident d'emblée... En poussant davantage la curiosité, nous réalisons de plus la variété des formes oculaires dans le règne animal, démontrant que les animaux utilisent des mécanismes tout aussi ingénieux. Cette exploration peut avoir des applications technologiques futures, mais surtout, elle va nous aider à mieux comprendre notre propre vision et à répondre à la question : "Comment l'œil a été inventé ?"
 
