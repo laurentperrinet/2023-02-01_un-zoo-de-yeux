@@ -8,7 +8,7 @@ AgileNeuroBot
 agissant
 aider
 aient
-Ainsi
+ainsi
 aisément
 Aix
 algorithmes
@@ -113,6 +113,7 @@ Commençons
 commun
 communiquer
 communs
+compacte
 complément
 complexité
 comportement
@@ -157,7 +158,7 @@ curiosité
 d’abord
 d’Aix
 d’ancêtre
-dans
+Dans
 d’autre
 D’autres
 davantage
@@ -180,7 +181,7 @@ déplacer
 dérivent
 déroule
 derrière
-des
+Des
 désert
 dessein
 détecter
@@ -200,7 +201,6 @@ dilater
 d’image
 d’impact
 d’individus
-d’information
 d’informations
 d’inspiration
 d’intérêt
@@ -238,7 +238,7 @@ efficacité
 électroniques
 élémentaire
 éléments
-Elle
+elle
 elles
 embarqués
 émergé
@@ -316,7 +316,7 @@ générations
 génère
 génèrent
 Globalement
-grâce
+Grâce
 graduellement
 gramme
 grande
@@ -327,7 +327,7 @@ hiérarchie
 horizontale
 horloge
 horloger
-humain
+Humain
 humains
 humidité
 hypothèse
@@ -422,7 +422,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-mais
+Mais
 malgré
 manière
 manuscrite
@@ -475,7 +475,7 @@ n’importe
 nombreuses
 nombreux
 notamment
-Notre
+notre
 nourriture
 nouveaux
 nouvelle
@@ -517,7 +517,7 @@ permettent
 permettre
 permis
 Perrinet
-perte
+pertes
 pèse
 peu
 peut
@@ -725,6 +725,6 @@ voir
 voisin
 voitures
 volants
-Vu
+vu
 vue
 yeux

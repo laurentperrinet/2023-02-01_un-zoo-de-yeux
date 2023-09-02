@@ -1090,8 +1090,12 @@ content/10.content.md:49:ceci
 content/10.content.md:49:Celà
 content/10.content.md:49:changements
 content/10.content.md:49:classique
+content/10.content.md:49:comme
+content/10.content.md:49:compacte
+content/10.content.md:49:des
 content/10.content.md:49:différente
-content/10.content.md:49:d'information
+content/10.content.md:49:événements
+content/10.content.md:49:façon
 content/10.content.md:49:façon
 content/10.content.md:49:haute
 content/10.content.md:49:l'ensemble
@@ -1102,7 +1106,7 @@ content/10.content.md:49:luminance
 content/10.content.md:49:mais
 content/10.content.md:49:miniaturisée
 content/10.content.md:49:permet
-content/10.content.md:49:perte
+content/10.content.md:49:pertes
 content/10.content.md:49:peu
 content/10.content.md:49:précision
 content/10.content.md:49:radicalement

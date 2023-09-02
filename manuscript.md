@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-02" />
   <meta name="citation_publication_date" content="2023-09-02" />
   <meta property="article:published_time" content="2023-09-02" />
-  <meta name="dc.modified" content="2023-09-02T09:56:39+00:00" />
-  <meta property="article:modified_time" content="2023-09-02T09:56:39+00:00" />
+  <meta name="dc.modified" content="2023-09-02T10:04:20+00:00" />
+  <meta property="article:modified_time" content="2023-09-02T10:04:20+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4736b6eae21b9dd0907666a4852ee4526eb99318/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4736b6eae21b9dd0907666a4852ee4526eb99318/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4736b6eae21b9dd0907666a4852ee4526eb99318/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9ac415a82cefd2af2193b171cfda3bff5e7e41cf/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9ac415a82cefd2af2193b171cfda3bff5e7e41cf/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9ac415a82cefd2af2193b171cfda3bff5e7e41cf/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4736b6eae21b9dd0907666a4852ee4526eb99318/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/9ac415a82cefd2af2193b171cfda3bff5e7e41cf/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@4736b6e](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/4736b6eae21b9dd0907666a4852ee4526eb99318)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@9ac415a](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/9ac415a82cefd2af2193b171cfda3bff5e7e41cf)
 on September 2, 2023.
 </em></small>
 
@@ -144,7 +144,7 @@ Si nous sommes naturellement aveugles à la polarisation de la lumière, ces ara
 
 ![
 **Les caméras événementielles.**
-Une caméra miniaturisée de type ATIS ressemble de l'extérieur à un capteur classique, mais représente l'information de façon radicalement différente. Au lieu de représenter l'ensemble de l'image à une cadence régulière, seuls les changements de luminance sont représentés, et ceci avec une haute précision temporelle. Celà permet de représenter une scène visuelle avec peu d'information et sans perte.
+Une caméra miniaturisée de type ATIS ressemble de l'extérieur à un capteur classique, mais représente l'information de façon radicalement différente. Au lieu de représenter l'ensemble de l'image à une cadence régulière, seuls les changements de luminance sont représentés comme des événements, et ceci avec une haute précision temporelle. Celà permet de représenter une scène visuelle de façon compacte et avec peu de pertes.
 ](https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png "Les caméras événementielles."){#fig:event}
 
 Une autre avancée notable est l'émergence de nouvelles caméras inspirées du fonctionnement de la rétine. Ces caméras sont dites événementielles, car au lieu de représente l'ensemble de la luminance sur une grille de pixels à des intervalles réguliers, elles ne transmettent que les événements correspondant à des changements de luminance (voir Figure @fig:event). Ainsi, les informations sont transformées indépendamment par les neurones de sortie de la rétine, sans nécessité d'une horloge centrale, et avec une précision temporelle de l'ordre de la microseconde qui dépasse largement celle des capterus classiques. Cela permet de réduire considérablement le flux d'informations : dans un cas extrême, une image statique ne génère aucun événement, mais aussi de représenter bien plus finement des scènes dynamiques. 
