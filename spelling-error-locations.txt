@@ -175,7 +175,7 @@ content/10.content.md:9:une
 content/10.content.md:9:vue
 content/10.content.md:9:vue
 content/10.content.md:10:humain
-content/10.content.md:10:pupilles
+content/10.content.md:10:oeil
 content/10.content.md:10:Pupilles
 content/10.content.md:10:seiche
 content/10.content.md:12:autour
@@ -209,6 +209,7 @@ content/10.content.md:12:lumineux
 content/10.content.md:12:luminosité
 content/10.content.md:12:mouvements
 content/10.content.md:12:oculaire
+content/10.content.md:12:oeil
 content/10.content.md:12:œil
 content/10.content.md:12:œil
 content/10.content.md:12:œil
@@ -239,6 +240,7 @@ content/10.content.md:12:trouve
 content/10.content.md:12:une
 content/10.content.md:12:une
 content/10.content.md:12:vers
+content/10.content.md:12:voir
 content/10.content.md:12:Vu
 content/10.content.md:14:activité
 content/10.content.md:14:ainsi
@@ -414,6 +416,7 @@ content/10.content.md:20:présentent
 content/10.content.md:20:proche
 content/10.content.md:20:pupille
 content/10.content.md:20:pupilles
+content/10.content.md:20:pupilles
 content/10.content.md:20:qu'elles
 content/10.content.md:20:règne
 content/10.content.md:20:ronde
@@ -424,6 +427,7 @@ content/10.content.md:20:sur
 content/10.content.md:20:toutes
 content/10.content.md:20:une
 content/10.content.md:20:uniforme
+content/10.content.md:20:voir
 content/10.content.md:20:voisin
 content/10.content.md:20:vu
 content/10.content.md:20:yeux
@@ -1198,6 +1202,7 @@ content/10.content.md:52:une
 content/10.content.md:52:une
 content/10.content.md:52:une
 content/10.content.md:52:Une
+content/10.content.md:52:voir
 content/10.content.md:54:Ainsi
 content/10.content.md:54:algorithmes
 content/10.content.md:54:autonomes

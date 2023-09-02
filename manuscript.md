@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-02" />
   <meta name="citation_publication_date" content="2023-09-02" />
   <meta property="article:published_time" content="2023-09-02" />
-  <meta name="dc.modified" content="2023-09-02T09:54:00+00:00" />
-  <meta property="article:modified_time" content="2023-09-02T09:54:00+00:00" />
+  <meta name="dc.modified" content="2023-09-02T09:56:39+00:00" />
+  <meta property="article:modified_time" content="2023-09-02T09:56:39+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4736b6eae21b9dd0907666a4852ee4526eb99318/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4736b6eae21b9dd0907666a4852ee4526eb99318/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4736b6eae21b9dd0907666a4852ee4526eb99318/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/4736b6eae21b9dd0907666a4852ee4526eb99318/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@963896b](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/963896b088fe9cebe29f825a2be0adb3b459517e)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@4736b6e](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/4736b6eae21b9dd0907666a4852ee4526eb99318)
 on September 2, 2023.
 </em></small>
 
@@ -105,9 +105,9 @@ L'œil humain suscite un émerveillement immédiat quand on considère son fonct
 ![
 **Anatomie de l'œil humain.**
 La vue de face montre le globe oculaire entouré des paupières avec l'ouverture de la pupille, contractée par les muscles de l'iris. La vue en coupe illustre le passage de la lumière de la cornée, sa focalisation par le cristallin d'une image sur la rétine. Cette surface contient des neurones sensibles à la lumière ainsi que plusieurs couches de traitement qui permettent de transmettre cette information au cerveau par l'intermédiaire du nerf optique.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Pupilles d'humain, chat, mouton et seiche."){#fig:pupilles}
+](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Pupilles d'humain, chat, mouton et seiche."){#fig:oeil}
 
-Vu de l'extérieur et de face, l'œil présente le globe oculaire, protégé par les paupières, et dans son axe central se trouve la pupille, autour de laquelle l'iris coloré peut se dilater ou se contracter selon la luminosité ou l'attention. La forme de globe sphérique permet de réaliser des mouvements rapides de rotation et diriger le regard vers des points d'intérêt. La coupe transversale permet de suivre le parcours de la lumière : celle-ci traverse d'abord une surface bombée, la cornée, puis le cristallin, une lentille qui concentre les rayons lumineux sur le fond de l'œil, sur lequel réside le composant sensible de l'œil, la rétine.
+Vu de l'extérieur et de face, l'œil présente le globe oculaire, protégé par les paupières, et dans son axe central se trouve la pupille, autour de laquelle l'iris coloré peut se dilater ou se contracter selon la luminosité ou l'attention (voir Figure @fig:oeil). La forme de globe sphérique permet de réaliser des mouvements rapides de rotation et diriger le regard vers des points d'intérêt. La coupe transversale permet de suivre le parcours de la lumière : celle-ci traverse d'abord une surface bombée, la cornée, puis le cristallin, une lentille qui concentre les rayons lumineux sur le fond de l'œil, sur lequel réside le composant sensible de l'œil, la rétine.
 
 Dans la rétine se trouvent environ 100 millions de photorécepteurs qui convertissent l'énergie électromagnétique portée par les photons en réactions électrochimiques. Celles-ci génèrent une activité neuronale qui passe par différentes couches de traitement pour converger vers les quelques 1,5 million de cellules ganglionnaires dont les sorties s'unissent pour former le nerf optique, reliant ainsi la rétine au reste du cerveau. De fait, la rétine est la seule portion du cerveau que nous pouvons directement observer !
 
@@ -115,7 +115,7 @@ Mais nos yeux ne se résument pas simplement à ça ! Une complexité incroyable
 
 ## La pupille, la prunelle de nos yeux
 
-Commençons notre exploration de la diversité des yeux dans le règne animal en portant notre attention sur sa partie la plus apparente : la pupille. Comme nous l'avons vu, cette composante du globe oculaire module le passage de la lumière. Intéressons-nous d'abord à un voisin proche, le chat domestique : en fonction de la luminosité, ses pupilles peuvent changer de la forme parfaitement ronde qu'elles adoptent dans l'obscurité pour se contracter graduellement et former cette fente caractéristique en forme de biseau vertical. Les humains présentent un mécanisme similaire, mais la contraction est uniforme dans toutes les directions, maintenant ainsi une forme ronde.
+Commençons notre exploration de la diversité des yeux dans le règne animal en portant notre attention sur sa partie la plus apparente : la pupille (voir Figure @fig:pupilles). Comme nous l'avons vu, cette composante du globe oculaire module le passage de la lumière. Intéressons-nous d'abord à un voisin proche, le chat domestique : en fonction de la luminosité, ses pupilles peuvent changer de la forme parfaitement ronde qu'elles adoptent dans l'obscurité pour se contracter graduellement et former cette fente caractéristique en forme de biseau vertical. Les humains présentent un mécanisme similaire, mais la contraction est uniforme dans toutes les directions, maintenant ainsi une forme ronde.
 
 ![
 **Pupilles chez différentes espèces : Humain, chat, mouton, seiche.**
@@ -147,7 +147,7 @@ Si nous sommes naturellement aveugles à la polarisation de la lumière, ces ara
 Une caméra miniaturisée de type ATIS ressemble de l'extérieur à un capteur classique, mais représente l'information de façon radicalement différente. Au lieu de représenter l'ensemble de l'image à une cadence régulière, seuls les changements de luminance sont représentés, et ceci avec une haute précision temporelle. Celà permet de représenter une scène visuelle avec peu d'information et sans perte.
 ](https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png "Les caméras événementielles."){#fig:event}
 
-Une autre avancée notable est l'émergence de nouvelles caméras inspirées du fonctionnement de la rétine. Ces caméras sont dites événementielles, car au lieu de représente l'ensemble de la luminance sur une grille de pixels à des intervalles réguliers, elles ne transmettent que les événements correspondant à des changements de luminance. Ainsi, les informations sont transformées indépendamment par les neurones de sortie de la rétine, sans nécessité d'une horloge centrale, et avec une précision temporelle de l'ordre de la microseconde qui dépasse largement celle des capterus classiques. Cela permet de réduire considérablement le flux d'informations : dans un cas extrême, une image statique ne génère aucun événement, mais aussi de représenter bien plus finement des scènes dynamiques. 
+Une autre avancée notable est l'émergence de nouvelles caméras inspirées du fonctionnement de la rétine. Ces caméras sont dites événementielles, car au lieu de représente l'ensemble de la luminance sur une grille de pixels à des intervalles réguliers, elles ne transmettent que les événements correspondant à des changements de luminance (voir Figure @fig:event). Ainsi, les informations sont transformées indépendamment par les neurones de sortie de la rétine, sans nécessité d'une horloge centrale, et avec une précision temporelle de l'ordre de la microseconde qui dépasse largement celle des capterus classiques. Cela permet de réduire considérablement le flux d'informations : dans un cas extrême, une image statique ne génère aucun événement, mais aussi de représenter bien plus finement des scènes dynamiques. 
 
 L'utilisation de ces caméras représente un changement de paradigme car, contrairement aux caméras classiques qui traitent des images séquentiellement à, par exemple, 30 images par seconde, ces caméras envoient des informations en continu. De fait, seules les zones d'intérêt, comme les contours des objets, sont représentées. Cette nouvelle représentation exige de concevoir de nouveaux algorithmes de traitement d'image et s'accompagne d'une révolution dans la conception de puces électroniques. Ainsi, de nouvelles technologies inspirées du fonctionnement du cerveau permettent de créer des puces où le calcul est extrêmement parallélisé, bien mieux que les puces traditionnelles. Cette ingénierie neuromorphique pourrait révolutionner le traitement des images par leur efficacité énergétique bien supérieure. Ce point est crucial pour des systèmes embarqués qui doivent répondre à des impératifs de consommation énergétique et d'impact environnemental liés à la transition écologique, comme dans les voitures autonomes du futur.
 

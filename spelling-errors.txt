@@ -8,7 +8,7 @@ AgileNeuroBot
 agissant
 aider
 aient
-ainsi
+Ainsi
 aisément
 Aix
 algorithmes
@@ -86,7 +86,7 @@ certainement
 certaines
 certains
 cerveau
-ces
+Ces
 C’est
 cet
 Cette
@@ -123,7 +123,7 @@ composante
 composé
 compréhension
 comprenand
-Comprendre
+comprendre
 compte
 concentre
 concepteur
@@ -238,7 +238,7 @@ efficacité
 électroniques
 élémentaire
 éléments
-elle
+Elle
 elles
 embarqués
 émergé
@@ -316,7 +316,7 @@ générations
 génère
 génèrent
 Globalement
-Grâce
+grâce
 graduellement
 gramme
 grande
@@ -422,7 +422,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-Mais
+mais
 malgré
 manière
 manuscrite
@@ -475,7 +475,7 @@ n’importe
 nombreuses
 nombreux
 notamment
-notre
+Notre
 nourriture
 nouveaux
 nouvelle
@@ -486,6 +486,7 @@ n’y
 objets
 oculaire
 oculaires
+oeil
 œil
 ondulée
 opère
@@ -563,7 +564,7 @@ puces
 puis
 puissent
 pupille
-pupilles
+Pupilles
 quand
 quantité
 quel
@@ -596,7 +597,7 @@ remontant
 remonte
 remonter
 repérer
-Répondre
+répondre
 réponse
 repousser
 représentation
@@ -720,9 +721,10 @@ visuel
 visuelle
 visuels
 vivant
+voir
 voisin
 voitures
 volants
-vu
+Vu
 vue
 yeux
