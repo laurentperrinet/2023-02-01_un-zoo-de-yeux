@@ -11,7 +11,7 @@
     "author-meta": [
       "Laurent U Perrinet"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Un zoo de yeux\" />\n<meta name=\"citation_title\" content=\"Un zoo de yeux\" />\n<meta property=\"og:title\" content=\"Un zoo de yeux\" />\n<meta property=\"twitter:title\" content=\"Un zoo de yeux\" />\n<meta name=\"dc.date\" content=\"2023-09-02\" />\n<meta name=\"citation_publication_date\" content=\"2023-09-02\" />\n<meta property=\"article:published_time\" content=\"2023-09-02\" />\n<meta name=\"dc.modified\" content=\"2023-09-02T09:45:05+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-02T09:45:05+00:00\" />\n<meta name=\"dc.language\" content=\"fr-FR\" />\n<meta name=\"citation_language\" content=\"fr-FR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Laurent U Perrinet\" />\n<meta name=\"citation_author_institution\" content=\"Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9536-010X\" />\n<link rel=\"canonical\" href=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/\" />\n<meta property=\"og:url\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/\" />\n<meta property=\"twitter:url\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/\" />\n<meta name=\"citation_pdf_url\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta name=\"dc.title\" content=\"Un zoo de yeux\" />\n<meta name=\"citation_title\" content=\"Un zoo de yeux\" />\n<meta property=\"og:title\" content=\"Un zoo de yeux\" />\n<meta property=\"twitter:title\" content=\"Un zoo de yeux\" />\n<meta name=\"dc.date\" content=\"2023-09-02\" />\n<meta name=\"citation_publication_date\" content=\"2023-09-02\" />\n<meta property=\"article:published_time\" content=\"2023-09-02\" />\n<meta name=\"dc.modified\" content=\"2023-09-02T09:54:00+00:00\" />\n<meta property=\"article:modified_time\" content=\"2023-09-02T09:54:00+00:00\" />\n<meta name=\"dc.language\" content=\"fr-FR\" />\n<meta name=\"citation_language\" content=\"fr-FR\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Laurent U Perrinet\" />\n<meta name=\"citation_author_institution\" content=\"Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-9536-010X\" />\n<link rel=\"canonical\" href=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/\" />\n<meta property=\"og:url\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/\" />\n<meta property=\"twitter:url\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/\" />\n<meta name=\"citation_pdf_url\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->\n",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -23,7 +23,7 @@
   "manubot": {
     "date": "2023-09-02",
     "date_long": "September 2, 2023",
-    "generated": "2023-09-02T09:45:05+00:00",
+    "generated": "2023-09-02T09:54:00+00:00",
     "generated_date_long": "September 2, 2023",
     "randomize_author_order": false,
     "authors": [
@@ -57,19 +57,19 @@
       "repo_slug": "laurentperrinet/2023-02-01_un-zoo-de-yeux",
       "repo_owner": "laurentperrinet",
       "repo_name": "2023-02-01_un-zoo-de-yeux",
-      "commit": "0045e7cff91a48c8605163775378ed1ffa68d0ba",
-      "triggering_commit": "0045e7cff91a48c8605163775378ed1ffa68d0ba",
-      "build_url": "https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/commit/0045e7cff91a48c8605163775378ed1ffa68d0ba/checks",
-      "job_url": "https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/actions/runs/6057627326"
+      "commit": "963896b088fe9cebe29f825a2be0adb3b459517e",
+      "triggering_commit": "963896b088fe9cebe29f825a2be0adb3b459517e",
+      "build_url": "https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/commit/963896b088fe9cebe29f825a2be0adb3b459517e/checks",
+      "job_url": "https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/actions/runs/6057655025"
     },
     "html_url": "https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/",
     "pdf_url": "https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf",
-    "html_url_versioned": "https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/",
-    "pdf_url_versioned": "https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/manuscript.pdf",
+    "html_url_versioned": "https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/",
+    "pdf_url_versioned": "https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/manuscript.pdf",
     "manubot_version": "0.5.5",
     "rootstock_commit": "7b10343b044ae84fc0d5733ea7de3151e1fa4885",
     "manuscript_stats": {
-      "word_count": 2667
+      "word_count": 2733
     }
   },
   "subject": "neurosciences, psychiatrie, psychologie, cerveau",

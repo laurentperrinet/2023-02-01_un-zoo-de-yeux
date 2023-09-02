@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-02" />
   <meta name="citation_publication_date" content="2023-09-02" />
   <meta property="article:published_time" content="2023-09-02" />
-  <meta name="dc.modified" content="2023-09-02T09:45:05+00:00" />
-  <meta property="article:modified_time" content="2023-09-02T09:45:05+00:00" />
+  <meta name="dc.modified" content="2023-09-02T09:54:00+00:00" />
+  <meta property="article:modified_time" content="2023-09-02T09:54:00+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/0045e7cff91a48c8605163775378ed1ffa68d0ba/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/963896b088fe9cebe29f825a2be0adb3b459517e/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@0045e7c](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/0045e7cff91a48c8605163775378ed1ffa68d0ba)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@963896b](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/963896b088fe9cebe29f825a2be0adb3b459517e)
 on September 2, 2023.
 </em></small>
 
@@ -141,6 +141,11 @@ Des études récentes suggèrent que les yeux ont probablement été "inventés"
 S'inspirant de cette richesse nouvellement redécouverte des formes du vivant, l'approche biomorphique s'est récemment épanouie dans le domaine de l'ingénierie. Une illustration de cette démarche est l'étude du comportement d'une araignée du désert qui est sensible à la polarisation de la lumière. En effet, la lumière possède, en plus de son énergie et de sa couleur, cette propriété qui peut être filtrée sélectivemnt. Ainsi, les lunettes de cinéma 3D utilisent cette propriété pour présenter des images différentes à chaque œil, créant ainsi une impression de profondeur. 
 
 Si nous sommes naturellement aveugles à la polarisation de la lumière, ces araignées y sont sensibles et sont notamment capables de détecter dans le ciel les nuances de polarisation autour du soleil, leur permettant ainsi de déterminer la position du soleil. Une équipe de chercheurs dirigée par Stéphane Viollet à Marseille a développé un robot utilisant cette propriété, leur système pouvant repérer avec précision la position du soleil dans le ciel dans diverses conditions météorologiques, même lorsque le ciel est nuageux. Cette technologie pourrait servir les systèmes de navigation en complément des GPS qui peuvent être défaillants ou inaccessibles.
+
+![
+**Les caméras événementielles.**
+Une caméra miniaturisée de type ATIS ressemble de l'extérieur à un capteur classique, mais représente l'information de façon radicalement différente. Au lieu de représenter l'ensemble de l'image à une cadence régulière, seuls les changements de luminance sont représentés, et ceci avec une haute précision temporelle. Celà permet de représenter une scène visuelle avec peu d'information et sans perte.
+](https://laurentperrinet.github.io/grant/anr-anr/event_driven_computations.png "Les caméras événementielles."){#fig:event}
 
 Une autre avancée notable est l'émergence de nouvelles caméras inspirées du fonctionnement de la rétine. Ces caméras sont dites événementielles, car au lieu de représente l'ensemble de la luminance sur une grille de pixels à des intervalles réguliers, elles ne transmettent que les événements correspondant à des changements de luminance. Ainsi, les informations sont transformées indépendamment par les neurones de sortie de la rétine, sans nécessité d'une horloge centrale, et avec une précision temporelle de l'ordre de la microseconde qui dépasse largement celle des capterus classiques. Cela permet de réduire considérablement le flux d'informations : dans un cas extrême, une image statique ne génère aucun événement, mais aussi de représenter bien plus finement des scènes dynamiques. 
 

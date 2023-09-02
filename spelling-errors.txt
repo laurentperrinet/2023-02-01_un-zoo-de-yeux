@@ -30,6 +30,7 @@ arbore
 artificiel
 artificielles
 associées
+ATIS
 attaque
 aucun
 aurait
@@ -53,7 +54,7 @@ bandes
 basés
 besoin
 biais
-Bien
+bien
 biomorphique
 biseau
 bleu
@@ -62,6 +63,7 @@ bougent
 brouter
 ça
 calcul
+caméra
 caméras
 camoufler
 capables
@@ -73,6 +75,7 @@ caractéristiques
 cas
 ceci
 Cela
+Celà
 celle
 Celles
 cellules
@@ -83,10 +86,10 @@ certainement
 certaines
 certains
 cerveau
-Ces
+ces
 C’est
 cet
-cette
+Cette
 chacune
 changement
 changements
@@ -100,11 +103,12 @@ CHR
 ciel
 cils
 cinéma
+classique
 classiques
 clignement
 CNRS
 coloré
-Comme
+comme
 Commençons
 commun
 communiquer
@@ -119,7 +123,7 @@ composante
 composé
 compréhension
 comprenand
-comprendre
+Comprendre
 compte
 concentre
 concepteur
@@ -196,6 +200,7 @@ dilater
 d’image
 d’impact
 d’individus
+d’information
 d’informations
 d’inspiration
 d’intérêt
@@ -233,7 +238,7 @@ efficacité
 électroniques
 élémentaire
 éléments
-Elle
+elle
 elles
 embarqués
 émergé
@@ -389,7 +394,9 @@ l’extérieur
 l’humain
 l’idée
 liés
+l’image
 limites
+l’information
 l’ingénierie
 l’ingéniosité
 l’instar
@@ -415,7 +422,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-mais
+Mais
 malgré
 manière
 manuscrite
@@ -434,6 +441,7 @@ microseconde
 MIDEX
 mieux
 mille
+miniaturisée
 mises
 modèles
 modifient
@@ -467,7 +475,7 @@ n’importe
 nombreuses
 nombreux
 notamment
-Notre
+notre
 nourriture
 nouveaux
 nouvelle
@@ -508,6 +516,7 @@ permettent
 permettre
 permis
 Perrinet
+perte
 pèse
 peu
 peut
@@ -594,6 +603,7 @@ représentation
 représente
 représentées
 représenter
+représentés
 réside
 ressemblant
 ressemble
@@ -614,6 +624,7 @@ ronde
 s’accompagne
 s’adapter
 s’avère
+scène
 scènes
 scientifique
 seconde
@@ -631,6 +642,7 @@ ses
 s’est
 seule
 seules
+seuls
 sévères
 similaire
 simplement
@@ -705,6 +717,7 @@ verticale
 Viollet
 visibilité
 visuel
+visuelle
 visuels
 vivant
 voisin
