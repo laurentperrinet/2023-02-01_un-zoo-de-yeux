@@ -153,6 +153,7 @@ content/10.content.md:9:d'une
 content/10.content.md:9:entouré
 content/10.content.md:9:focalisation
 content/10.content.md:9:illustre
+content/10.content.md:9:l'intermédiaire
 content/10.content.md:9:l'iris
 content/10.content.md:9:lumière
 content/10.content.md:9:lumière
@@ -352,6 +353,7 @@ content/10.content.md:16:simplement
 content/10.content.md:16:souvent
 content/10.content.md:16:surtout
 content/10.content.md:16:technologiques
+content/10.content.md:16:t'il
 content/10.content.md:16:une
 content/10.content.md:16:une
 content/10.content.md:16:une
@@ -536,6 +538,7 @@ content/10.content.md:29:ces
 content/10.content.md:29:ces
 content/10.content.md:29:ces
 content/10.content.md:29:ces
+content/10.content.md:29:cette
 content/10.content.md:29:Cette
 content/10.content.md:29:Cette
 content/10.content.md:29:chaque
@@ -578,6 +581,8 @@ content/10.content.md:29:elle
 content/10.content.md:29:Elle
 content/10.content.md:29:émergé
 content/10.content.md:29:énigme
+content/10.content.md:29:espèce
+content/10.content.md:29:espèce
 content/10.content.md:29:été
 content/10.content.md:29:exemple
 content/10.content.md:29:extraire
@@ -592,7 +597,6 @@ content/10.content.md:29:générations
 content/10.content.md:29:hypothèse
 content/10.content.md:29:hypothèse
 content/10.content.md:29:illustre
-content/10.content.md:29:ils
 content/10.content.md:29:imiter
 content/10.content.md:29:informations
 content/10.content.md:29:jouer
@@ -625,7 +629,7 @@ content/10.content.md:29:permettant
 content/10.content.md:29:peuvent
 content/10.content.md:29:photorécepteurs
 content/10.content.md:29:photorécepteurs
-content/10.content.md:29:possèdent
+content/10.content.md:29:possède
 content/10.content.md:29:pourrait
 content/10.content.md:29:pourrait
 content/10.content.md:29:présentent
@@ -637,7 +641,6 @@ content/10.content.md:29:pupille
 content/10.content.md:29:pupilles
 content/10.content.md:29:qui
 content/10.content.md:29:qu'il
-content/10.content.md:29:qu'ils
 content/10.content.md:29:réfléchir
 content/10.content.md:29:règne
 content/10.content.md:29:relie
