@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-03" />
   <meta name="citation_publication_date" content="2023-09-03" />
   <meta property="article:published_time" content="2023-09-03" />
-  <meta name="dc.modified" content="2023-09-03T05:36:00+00:00" />
-  <meta property="article:modified_time" content="2023-09-03T05:36:00+00:00" />
+  <meta name="dc.modified" content="2023-09-03T05:38:42+00:00" />
+  <meta property="article:modified_time" content="2023-09-03T05:38:42+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a4bf612cdd46d6baf58eb885120458aa4049325b/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a4bf612cdd46d6baf58eb885120458aa4049325b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a4bf612cdd46d6baf58eb885120458aa4049325b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/948b3f14862f1fceee9ba315ff9eea592104b95d/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/948b3f14862f1fceee9ba315ff9eea592104b95d/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/948b3f14862f1fceee9ba315ff9eea592104b95d/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a4bf612cdd46d6baf58eb885120458aa4049325b/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/948b3f14862f1fceee9ba315ff9eea592104b95d/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@a4bf612](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/a4bf612cdd46d6baf58eb885120458aa4049325b)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@948b3f1](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/948b3f14862f1fceee9ba315ff9eea592104b95d)
 on September 3, 2023.
 </em></small>
 
@@ -120,7 +120,7 @@ Commençons notre exploration de la diversité des yeux dans le règne animal en
 ![
 **Pupilles chez différentes espèces : Humain, chat, mouton, seiche.**
 La pupille peut se contracter par l'action des muscles de l'iris et moduler la quantité de lumière ici dilatée chez l'humain. Contractée, sa forme peut être ronde (humain), en forme de fente verticale (chat) ou horizontale (mouton), alors que la seiche possède une pupille à la forme unique en "w".
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Pupilles d'humain, chat, mouton et seiche."){#fig:pupilles}
+](./images/IMG_1719.jpeg "Pupilles d'humain, chat, mouton et seiche."){#fig:pupilles}
 
 De manière plus étonnante, les pupilles des moutons se contractent selon un axe horizontal, et ceci même quand ces animaux bougent leur tête pour brouter. Cette adaptation est expliquée par le statut de proie plus fréquent chez les moutons et cette configuration leur permet d'étendre leur champ de vision. En revanche, la forme de fente verticale des chats favorise plutôt la perception de la profondeur, et comme prédateurs, cette avantage s'avère plus utile pour une attaque. Ainsi, la sélection naturelle a conduit à une évolution distincte des pupilles de ces deux espèces.
 

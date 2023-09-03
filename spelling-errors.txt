@@ -8,7 +8,7 @@ AgileNeuroBot
 agissant
 aider
 aient
-ainsi
+Ainsi
 aisément
 Aix
 algorithmes
@@ -74,7 +74,7 @@ caractéristique
 caractéristiques
 cas
 ceci
-cela
+Cela
 Celà
 celle
 Celles
@@ -86,10 +86,10 @@ certainement
 certaines
 certains
 cerveau
-ces
+Ces
 C’est
 cet
-cette
+Cette
 chacune
 changement
 changements
@@ -124,7 +124,7 @@ composante
 composé
 compréhension
 comprenand
-Comprendre
+comprendre
 compte
 concentre
 concepteur
@@ -181,7 +181,7 @@ déplacer
 dérivent
 déroule
 derrière
-des
+Des
 désert
 dessein
 détecter
@@ -238,7 +238,7 @@ efficacité
 électroniques
 élémentaire
 éléments
-Elle
+elle
 elles
 embarqués
 émergé
@@ -405,7 +405,7 @@ l’iris
 littéralement
 l’objet
 l’obscurité
-L’œil
+l’œil
 l’on
 longtemps
 l’ordre
@@ -422,7 +422,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-mais
+Mais
 malgré
 manière
 manuscrite
@@ -498,7 +498,7 @@ ou
 où
 ouvrent
 pâlir
-Panoramique
+panoramique
 paradigme
 paradoxe
 parallélisé
@@ -564,7 +564,7 @@ puces
 puis
 puissent
 pupille
-pupilles
+Pupilles
 quand
 quantité
 quel
@@ -725,6 +725,6 @@ voir
 voisin
 voitures
 volants
-vu
+Vu
 vue
 yeux
