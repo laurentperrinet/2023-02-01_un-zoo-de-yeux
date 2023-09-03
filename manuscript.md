@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-03" />
   <meta name="citation_publication_date" content="2023-09-03" />
   <meta property="article:published_time" content="2023-09-03" />
-  <meta name="dc.modified" content="2023-09-03T05:43:57+00:00" />
-  <meta property="article:modified_time" content="2023-09-03T05:43:57+00:00" />
+  <meta name="dc.modified" content="2023-09-03T10:13:36+00:00" />
+  <meta property="article:modified_time" content="2023-09-03T10:13:36+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ba53b4fe5cd1bc732bbd164f3f360b8d81a25942/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ba53b4fe5cd1bc732bbd164f3f360b8d81a25942/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ba53b4fe5cd1bc732bbd164f3f360b8d81a25942/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a6315b655e8014d461807349cb191c32a2039ab7/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a6315b655e8014d461807349cb191c32a2039ab7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a6315b655e8014d461807349cb191c32a2039ab7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ba53b4fe5cd1bc732bbd164f3f360b8d81a25942/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a6315b655e8014d461807349cb191c32a2039ab7/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@ba53b4f](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/ba53b4fe5cd1bc732bbd164f3f360b8d81a25942)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@a6315b6](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/a6315b655e8014d461807349cb191c32a2039ab7)
 on September 3, 2023.
 </em></small>
 
@@ -105,7 +105,7 @@ L'œil humain suscite un émerveillement immédiat quand on considère son fonct
 ![
 **Anatomie de l'œil humain.**
 La vue de face montre le globe oculaire entouré des paupières avec l'ouverture de la pupille, contractée par les muscles de l'iris. La vue en coupe illustre le passage de la lumière de la cornée, sa focalisation par le cristallin d'une image sur la rétine. Cette surface contient des neurones sensibles à la lumière ainsi que plusieurs couches de traitement qui permettent de transmettre cette information au cerveau par l'intermédiaire du nerf optique.
-](./images/zoo-oeil.jpeg "Anatomie de l'oeil humain."){#fig:oeil}
+](./images/zoo-oeil.jpg "Anatomie de l'oeil humain."){#fig:oeil}
 
 Vu de l'extérieur et de face, l'œil présente le globe oculaire, protégé par les paupières, et dans son axe central se trouve la pupille, autour de laquelle l'iris coloré peut se dilater ou se contracter selon la luminosité ou l'attention (voir Figure @fig:oeil). La forme de globe sphérique permet de réaliser des mouvements rapides de rotation et diriger le regard vers des points d'intérêt. La coupe transversale permet de suivre le parcours de la lumière : celle-ci traverse d'abord une surface bombée, la cornée, puis le cristallin, une lentille qui concentre les rayons lumineux sur le fond de l'œil, sur lequel réside le composant sensible de l'œil, la rétine.
 

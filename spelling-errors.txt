@@ -138,7 +138,7 @@ constitue
 constitués
 contient
 continu
-contractée
+Contractée
 contractent
 contracter
 contrairement
@@ -316,7 +316,7 @@ générations
 génère
 génèrent
 Globalement
-Grâce
+grâce
 graduellement
 gramme
 grande
@@ -422,7 +422,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-Mais
+mais
 malgré
 manière
 manuscrite
@@ -597,7 +597,7 @@ remontant
 remonte
 remonter
 repérer
-Répondre
+répondre
 réponse
 repousser
 représentation
@@ -701,7 +701,7 @@ transversale
 très
 trouve
 trouvent
-une
+Une
 uniforme
 Université
 utile
