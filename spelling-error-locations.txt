@@ -174,10 +174,11 @@ content/10.content.md:9:transmettre
 content/10.content.md:9:une
 content/10.content.md:9:vue
 content/10.content.md:9:vue
+content/10.content.md:10:Anatomie
 content/10.content.md:10:humain
 content/10.content.md:10:oeil
-content/10.content.md:10:Pupilles
-content/10.content.md:10:seiche
+content/10.content.md:10:oeil
+content/10.content.md:10:oeil
 content/10.content.md:12:autour
 content/10.content.md:12:bombée
 content/10.content.md:12:celle
@@ -469,6 +470,7 @@ content/10.content.md:24:seiche
 content/10.content.md:24:une
 content/10.content.md:24:verticale
 content/10.content.md:25:humain
+content/10.content.md:25:pupille
 content/10.content.md:25:pupilles
 content/10.content.md:25:Pupilles
 content/10.content.md:25:seiche
