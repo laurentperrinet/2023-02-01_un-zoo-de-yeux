@@ -54,7 +54,7 @@ bandes
 basés
 besoin
 biais
-bien
+Bien
 biomorphique
 biseau
 bleu
@@ -74,7 +74,7 @@ caractéristique
 caractéristiques
 cas
 ceci
-Cela
+cela
 Celà
 celle
 Celles
@@ -86,10 +86,10 @@ certainement
 certaines
 certains
 cerveau
-Ces
+ces
 C’est
 cet
-Cette
+cette
 chacune
 changement
 changements
@@ -108,7 +108,7 @@ classiques
 clignement
 CNRS
 coloré
-comme
+Comme
 Commençons
 commun
 communiquer
@@ -124,7 +124,7 @@ composante
 composé
 compréhension
 comprenand
-comprendre
+Comprendre
 compte
 concentre
 concepteur
@@ -158,7 +158,7 @@ curiosité
 d’abord
 d’Aix
 d’ancêtre
-Dans
+dans
 d’autre
 D’autres
 davantage
@@ -181,7 +181,7 @@ déplacer
 dérivent
 déroule
 derrière
-Des
+des
 désert
 dessein
 détecter
@@ -238,7 +238,7 @@ efficacité
 électroniques
 élémentaire
 éléments
-elle
+Elle
 elles
 embarqués
 émergé
@@ -316,7 +316,7 @@ générations
 génère
 génèrent
 Globalement
-Grâce
+grâce
 graduellement
 gramme
 grande
@@ -327,7 +327,7 @@ hiérarchie
 horizontale
 horloge
 horloger
-Humain
+humain
 humains
 humidité
 hypothèse
@@ -405,7 +405,7 @@ l’iris
 littéralement
 l’objet
 l’obscurité
-l’œil
+L’œil
 l’on
 longtemps
 l’ordre
@@ -422,7 +422,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-Mais
+mais
 malgré
 manière
 manuscrite
@@ -475,7 +475,7 @@ n’importe
 nombreuses
 nombreux
 notamment
-notre
+Notre
 nourriture
 nouveaux
 nouvelle
@@ -564,7 +564,7 @@ puces
 puis
 puissent
 pupille
-Pupilles
+pupilles
 quand
 quantité
 quel
@@ -597,7 +597,7 @@ remontant
 remonte
 remonter
 repérer
-répondre
+Répondre
 réponse
 repousser
 représentation
