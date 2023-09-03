@@ -8,7 +8,7 @@ AgileNeuroBot
 agissant
 aider
 aient
-Ainsi
+ainsi
 aisément
 Aix
 algorithmes
@@ -54,7 +54,7 @@ bandes
 basés
 besoin
 biais
-Bien
+bien
 biomorphique
 biseau
 bleu
@@ -86,7 +86,7 @@ certainement
 certaines
 certains
 cerveau
-Ces
+ces
 C’est
 cet
 Cette
@@ -108,7 +108,7 @@ classiques
 clignement
 CNRS
 coloré
-Comme
+comme
 Commençons
 commun
 communiquer
@@ -138,7 +138,7 @@ constitue
 constitués
 contient
 continu
-contractée
+Contractée
 contractent
 contracter
 contrairement
@@ -181,7 +181,7 @@ déplacer
 dérivent
 déroule
 derrière
-Des
+des
 désert
 dessein
 détecter
@@ -316,7 +316,7 @@ générations
 génère
 génèrent
 Globalement
-grâce
+Grâce
 graduellement
 gramme
 grande
@@ -405,7 +405,7 @@ l’iris
 littéralement
 l’objet
 l’obscurité
-l’œil
+L’œil
 l’on
 longtemps
 l’ordre
@@ -422,7 +422,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-Mais
+mais
 malgré
 manière
 manuscrite
@@ -475,7 +475,7 @@ n’importe
 nombreuses
 nombreux
 notamment
-Notre
+notre
 nourriture
 nouveaux
 nouvelle
@@ -597,7 +597,7 @@ remontant
 remonte
 remonter
 repérer
-Répondre
+répondre
 réponse
 repousser
 représentation
@@ -701,7 +701,7 @@ transversale
 très
 trouve
 trouvent
-une
+Une
 uniforme
 Université
 utile
@@ -725,6 +725,6 @@ voir
 voisin
 voitures
 volants
-Vu
+vu
 vue
 yeux
