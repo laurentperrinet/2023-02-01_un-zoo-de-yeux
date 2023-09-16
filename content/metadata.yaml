@@ -1,5 +1,5 @@
 ---
-title: "Un zoo de yeux"
+title: "Comment l'œil a t'il été inventé?"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
 - Perception visuelle
@@ -18,12 +18,12 @@ authors:
       - Institut de Neurosciences de la Timone, CNRS / Aix-Marseille Université
     funders: This research was funded by the European Union ERA-NET CHIST-ERA 2018 research and innovation program under grant number ANR-19-CHR3-0008-03 “APROVIS3D”, ANR grant number ANR-20-CE23-0021 “AgileNeuroBot”, as well as from Initiative d’Excellence d’Aix-Marseille Université–A*MIDEX grant number AMX-21-RID-025 “Polychronies”.
 
-subject: neurosciences, psychiatrie, psychologie, cerveau
+subject: neurosciences, vision, yeux, cerveau, évolution
 description: Article de dissémination sur la perception visuelle, vue à travers l'anatomie des yeux dans différentes espèces.
 category: review
 papersize: a4
 thanks: L'auteur voudrait remercier [...](https://theconversation.com/profiles/...) pour les (nombreuses!) corrections apportées à ce texte.
-website: https://laurentperrinet.github.io/2023-02_un-zoo-de-yeux
-source: https://github.com/laurentperrinet/2023-02_un-zoo-de-yeux
+website: https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux
+source: https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux
 
 summary: "Les objectifs sont de mieux comprendre: - l'anatomie de l'oeil humain ; – la comparer avec celle d'autres espèces ; – mieux comprendre le rôle de l’évolution dans leur formation."
