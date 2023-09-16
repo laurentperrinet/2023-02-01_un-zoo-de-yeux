@@ -1,5 +1,5 @@
 ---
-title: Un zoo de yeux
+title: Comment l'œil a t'il été inventé?
 keywords:
 - Perception visuelle
 - Anatomie
@@ -15,15 +15,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Un zoo de yeux" />
-  <meta name="citation_title" content="Un zoo de yeux" />
-  <meta property="og:title" content="Un zoo de yeux" />
-  <meta property="twitter:title" content="Un zoo de yeux" />
+  <meta name="dc.title" content="Comment l&#39;œil a t&#39;il été inventé?" />
+  <meta name="citation_title" content="Comment l&#39;œil a t&#39;il été inventé?" />
+  <meta property="og:title" content="Comment l&#39;œil a t&#39;il été inventé?" />
+  <meta property="twitter:title" content="Comment l&#39;œil a t&#39;il été inventé?" />
   <meta name="dc.date" content="2023-09-16" />
   <meta name="citation_publication_date" content="2023-09-16" />
   <meta property="article:published_time" content="2023-09-16" />
-  <meta name="dc.modified" content="2023-09-16T07:17:45+00:00" />
-  <meta property="article:modified_time" content="2023-09-16T07:17:45+00:00" />
+  <meta name="dc.modified" content="2023-09-16T07:20:04+00:00" />
+  <meta property="article:modified_time" content="2023-09-16T07:20:04+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a25cd4fb70c85de6fe782021da5f84a0d721e3dd/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a25cd4fb70c85de6fe782021da5f84a0d721e3dd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a25cd4fb70c85de6fe782021da5f84a0d721e3dd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ec6a5c54d0c493504aef6a17defed11d88d2f06f/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ec6a5c54d0c493504aef6a17defed11d88d2f06f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ec6a5c54d0c493504aef6a17defed11d88d2f06f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/a25cd4fb70c85de6fe782021da5f84a0d721e3dd/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ec6a5c54d0c493504aef6a17defed11d88d2f06f/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@a25cd4f](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/a25cd4fb70c85de6fe782021da5f84a0d721e3dd)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@ec6a5c5](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/ec6a5c54d0c493504aef6a17defed11d88d2f06f)
 on September 16, 2023.
 </em></small>
 

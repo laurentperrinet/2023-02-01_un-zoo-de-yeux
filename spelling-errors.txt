@@ -8,7 +8,7 @@ AgileNeuroBot
 agissant
 aider
 aient
-Ainsi
+ainsi
 aisément
 Aix
 algorithmes
@@ -89,7 +89,7 @@ cerveau
 ces
 c’est
 cet
-cette
+Cette
 chacune
 changement
 changements
@@ -108,7 +108,7 @@ classiques
 clignement
 CNRS
 coloré
-comme
+Comme
 Commençons
 commun
 communiquer
@@ -138,7 +138,7 @@ constitue
 constitués
 contient
 continu
-contractée
+Contractée
 contractent
 contracter
 contrairement
@@ -158,7 +158,7 @@ curiosité
 d’abord
 d’Aix
 d’ancêtre
-dans
+Dans
 d’autre
 D’autres
 davantage
@@ -182,7 +182,7 @@ déplacer
 dérivent
 déroule
 derrière
-Des
+des
 désert
 dessein
 détecter
@@ -241,7 +241,7 @@ efficacité
 électroniques
 élémentaire
 éléments
-elle
+Elle
 elles
 embarqués
 émergé
@@ -319,7 +319,7 @@ générations
 génère
 génèrent
 Globalement
-grâce
+Grâce
 graduellement
 gramme
 grande
@@ -330,7 +330,7 @@ hiérarchie
 horizontale
 horloge
 horloger
-Humain
+humain
 humaine
 humains
 humidité
@@ -426,7 +426,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-mais
+Mais
 malgré
 manière
 manuscrite
@@ -502,7 +502,7 @@ ou
 où
 ouvrent
 pâlir
-panoramique
+Panoramique
 paradigme
 paradoxe
 parallélisé
@@ -703,7 +703,7 @@ transversale
 très
 trouve
 trouvent
-Une
+une
 uniforme
 Université
 utile
