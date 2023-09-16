@@ -74,7 +74,7 @@ caractéristique
 caractéristiques
 cas
 ceci
-Cela
+cela
 Celà
 celle
 Celles
@@ -87,9 +87,9 @@ certaines
 certains
 cerveau
 ces
-c’est
+C’est
 cet
-Cette
+cette
 chacune
 changement
 changements
@@ -108,7 +108,7 @@ classiques
 clignement
 CNRS
 coloré
-Comme
+comme
 Commençons
 commun
 communiquer
@@ -124,7 +124,7 @@ composante
 composé
 compréhension
 comprenand
-Comprendre
+comprendre
 compte
 concentre
 concepteur
@@ -182,7 +182,7 @@ déplacer
 dérivent
 déroule
 derrière
-des
+Des
 désert
 dessein
 détecter
@@ -196,6 +196,7 @@ d’exécuter
 d’explorer
 différente
 différentes
+différents
 difficile
 dignes
 dilatée
@@ -213,6 +214,7 @@ discerner
 dispositif
 distincte
 distinctes
+distincts
 dites
 diverses
 diversité
@@ -241,7 +243,7 @@ efficacité
 électroniques
 élémentaire
 éléments
-Elle
+elle
 elles
 embarqués
 émergé
@@ -409,7 +411,7 @@ l’iris
 littéralement
 l’objet
 l’obscurité
-L’œil
+l’œil
 l’on
 longtemps
 l’ordre
@@ -467,6 +469,7 @@ mystères
 naturelle
 naturellement
 naturelles
+nécessairement
 nécessite
 nécessité
 nécessiter
@@ -479,7 +482,7 @@ n’importe
 nombreuses
 nombreux
 notamment
-Notre
+notre
 nourriture
 nouveaux
 nouvelle
@@ -502,7 +505,7 @@ ou
 où
 ouvrent
 pâlir
-Panoramique
+panoramique
 paradigme
 paradoxe
 parallélisé
@@ -553,6 +556,7 @@ probablement
 problèmes
 processus
 proche
+proches
 produire
 profondes
 profondeur
@@ -587,7 +591,7 @@ récentes
 recourir
 redécouverte
 réduire
-réfléchir
+réfléchisent
 réglée
 règne
 régulière
@@ -599,7 +603,7 @@ remontant
 remonte
 remonter
 repérer
-Répondre
+répondre
 réponse
 repousser
 représentation
@@ -667,6 +671,7 @@ Stéphane
 stratégies
 suggère
 suggèrent
+suivant
 suivre
 s’unissent
 supérieure
@@ -712,7 +717,6 @@ utilisée
 utilisent
 variabilité
 variées
-variés
 variété
 venons
 vers
@@ -727,6 +731,6 @@ voir
 voisin
 voitures
 volants
-vu
+Vu
 vue
 yeux

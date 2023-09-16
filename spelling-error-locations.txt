@@ -499,6 +499,7 @@ content/10.content.md:27:contractent
 content/10.content.md:27:des
 content/10.content.md:27:des
 content/10.content.md:27:des
+content/10.content.md:27:des
 content/10.content.md:27:d'étendre
 content/10.content.md:27:deux
 content/10.content.md:27:distincte
@@ -518,9 +519,11 @@ content/10.content.md:27:même
 content/10.content.md:27:moutons
 content/10.content.md:27:moutons
 content/10.content.md:27:naturelle
+content/10.content.md:27:objets
 content/10.content.md:27:permet
 content/10.content.md:27:plutôt
 content/10.content.md:27:prédateurs
+content/10.content.md:27:proches
 content/10.content.md:27:profondeur
 content/10.content.md:27:proie
 content/10.content.md:27:pupilles
@@ -585,9 +588,11 @@ content/10.content.md:29:des
 content/10.content.md:29:deux
 content/10.content.md:29:différentes
 content/10.content.md:29:différentes
+content/10.content.md:29:différents
 content/10.content.md:29:d'individus
 content/10.content.md:29:discerner
 content/10.content.md:29:distinctes
+content/10.content.md:29:distincts
 content/10.content.md:29:dont
 content/10.content.md:29:d'un
 content/10.content.md:29:elle
@@ -628,6 +633,7 @@ content/10.content.md:29:modifient
 content/10.content.md:29:montré
 content/10.content.md:29:mystères
 content/10.content.md:29:naturelle
+content/10.content.md:29:nécessairement
 content/10.content.md:29:nécessite
 content/10.content.md:29:nécessite
 content/10.content.md:29:nécessiter
@@ -639,7 +645,6 @@ content/10.content.md:29:où
 content/10.content.md:29:paradoxe
 content/10.content.md:29:peau
 content/10.content.md:29:permettant
-content/10.content.md:29:peuvent
 content/10.content.md:29:photorécepteurs
 content/10.content.md:29:photorécepteurs
 content/10.content.md:29:possède
@@ -654,7 +659,7 @@ content/10.content.md:29:pupille
 content/10.content.md:29:pupilles
 content/10.content.md:29:qui
 content/10.content.md:29:qu'il
-content/10.content.md:29:réfléchir
+content/10.content.md:29:réfléchisent
 content/10.content.md:29:règne
 content/10.content.md:29:relie
 content/10.content.md:29:remarquables
@@ -669,6 +674,7 @@ content/10.content.md:29:singulière
 content/10.content.md:29:spécifiques
 content/10.content.md:29:stratégies
 content/10.content.md:29:suggère
+content/10.content.md:29:suivant
 content/10.content.md:29:survie
 content/10.content.md:29:suscité
 content/10.content.md:29:systèmes
@@ -677,7 +683,6 @@ content/10.content.md:29:une
 content/10.content.md:29:une
 content/10.content.md:29:une
 content/10.content.md:29:Une
-content/10.content.md:29:variés
 content/10.content.md:31:D’autres
 content/10.content.md:31:des
 content/10.content.md:31:des

@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-09-16" />
   <meta name="citation_publication_date" content="2023-09-16" />
   <meta property="article:published_time" content="2023-09-16" />
-  <meta name="dc.modified" content="2023-09-16T07:20:04+00:00" />
-  <meta property="article:modified_time" content="2023-09-16T07:20:04+00:00" />
+  <meta name="dc.modified" content="2023-09-16T07:23:57+00:00" />
+  <meta property="article:modified_time" content="2023-09-16T07:23:57+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ec6a5c54d0c493504aef6a17defed11d88d2f06f/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ec6a5c54d0c493504aef6a17defed11d88d2f06f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ec6a5c54d0c493504aef6a17defed11d88d2f06f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/8fe507e084e9990c7a4be029fa4d162c4c739a79/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/8fe507e084e9990c7a4be029fa4d162c4c739a79/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/8fe507e084e9990c7a4be029fa4d162c4c739a79/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ec6a5c54d0c493504aef6a17defed11d88d2f06f/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/8fe507e084e9990c7a4be029fa4d162c4c739a79/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@ec6a5c5](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/ec6a5c54d0c493504aef6a17defed11d88d2f06f)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@8fe507e](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/8fe507e084e9990c7a4be029fa4d162c4c739a79)
 on September 16, 2023.
 </em></small>
 
@@ -122,9 +122,9 @@ Commençons notre exploration de la diversité des yeux dans le règne animal en
 La pupille peut se contracter par l'action des muscles de l'iris et moduler la quantité de lumière ici dilatée chez l'humain. Contractée, sa forme peut être ronde (humain), en forme de fente verticale (chat) ou horizontale (mouton), alors que la seiche possède une pupille à la forme unique en "w".
 ](./images/zoo-pupille.jpg "Pupilles d'humain, chat, mouton et seiche."){#fig:pupilles}
 
-De manière plus étonnante, les pupilles des moutons se contractent selon un axe horizontal, et ceci même quand ces animaux bougent leur tête pour brouter. Cette adaptation est expliquée par le statut de proie plus fréquent chez les moutons et cette configuration leur permet d'étendre leur champ de vision. En revanche, la forme de fente verticale des chats favorise plutôt la perception de la profondeur, et comme prédateurs, cette avantage s'avère plus utile pour une attaque. Ainsi, la sélection naturelle a conduit à une évolution distincte des pupilles de ces deux espèces.
+De manière plus étonnante, les pupilles des moutons se contractent selon un axe horizontal, et ceci même quand ces animaux bougent leur tête pour brouter. Cette adaptation est expliquée par le statut de proie plus fréquent chez les moutons et cette configuration leur permet d'étendre leur champ de vision. En revanche, la forme de fente verticale des chats favorise plutôt la perception de la profondeur des objets proches, et comme prédateurs, cette avantage s'avère plus utile pour une attaque. Ainsi, la sélection naturelle a conduit à une évolution distincte des pupilles de ces deux espèces.
 
-D'autres animaux présentent des pupilles aux formes encore plus remarquables. Un exemple est la seiche, dont la pupille, une fois contractée, arbore une forme ondulée ressemblant à la lettre manuscrite "w". Cette pupille unique dans le règne animal a longtemps suscité une énigme. Il s'avère d'autre part que ces animaux modifient la couleur de leur peau pour communiquer ou se camoufler. Ce comportement constitue un paradoxe, car un tel comportement nécessite la perception de la couleur ou de la texture de l'objet à imiter, alors qu'il a été montré que cette espèce ne possède pas de photorécepteurs sensibles à différentes couleurs. Une hypothèse fascinante a émergé qui relie ces deux mystères. Elle suggère que la forme de la pupille pourrait jouer un rôle dans la perception des couleurs. À l'instar d'un arc-en-ciel décomposant les couleurs en bandes distinctes, les systèmes optiques peuvent réfléchir les couleurs à des angles légèrement variés. La pupille singulière de la seiche pourrait ainsi produire différentes formes pour chaque couleur, permettant au cerveau d'en extraire les informations pour discerner les couleurs, et ceci sans nécessiter de photorécepteurs spécifiques. Cette hypothèse nécessite davantage de validation, mais elle illustre l'ingéniosité des stratégies mises en place par ces systèmes part le biais de la sélection naturelle, où des millions de générations et des milliards d'individus ont favorisé ces traits pour la survie de l'espèce.
+D'autres animaux présentent des pupilles aux formes encore plus remarquables. Un exemple est la seiche, dont la pupille, une fois contractée, arbore une forme ondulée ressemblant à la lettre manuscrite "w". Cette pupille unique dans le règne animal a longtemps suscité une énigme. Il s'avère d'autre part que ces animaux modifient la couleur de leur peau pour communiquer ou se camoufler. Ce comportement constitue un paradoxe, car un tel comportement nécessite nécessairement la perception de la couleur ou de la texture de l'objet à imiter, alors qu'il a été montré que cette espèce ne possède pas de photorécepteurs sensibles à différentes couleurs. Une hypothèse fascinante a émergé qui relie ces deux mystères. Elle suggère que la forme de la pupille pourrait jouer un rôle dans la perception des couleurs. À l'instar d'un arc-en-ciel décomposant les couleurs en bandes distinctes, les systèmes optiques réfléchisent les différents couleurs suivant des angles légèrement distincts. La pupille singulière de la seiche pourrait ainsi produire différentes formes pour chaque couleur, permettant au cerveau d'en extraire les informations pour discerner les couleurs, et ceci sans nécessiter de photorécepteurs spécifiques. Cette hypothèse nécessite davantage de validation, mais elle illustre l'ingéniosité des stratégies mises en place par ces systèmes par le biais de la sélection naturelle, où des millions de générations et des milliards d'individus ont favorisé ces traits pour la survie de l'espèce.
 
 ## D’autres facettes des yeux : La Vision Panoramique des Mouches
 
