@@ -8,7 +8,7 @@ AgileNeuroBot
 agissant
 aider
 aient
-ainsi
+Ainsi
 aisément
 Aix
 algorithmes
@@ -54,7 +54,7 @@ bandes
 basés
 besoin
 biais
-bien
+Bien
 biomorphique
 biseau
 bleu
@@ -86,10 +86,10 @@ certainement
 certaines
 certains
 cerveau
-Ces
+ces
 c’est
 cet
-Cette
+cette
 chacune
 changement
 changements
@@ -108,7 +108,7 @@ classiques
 clignement
 CNRS
 coloré
-Comme
+comme
 Commençons
 commun
 communiquer
@@ -124,7 +124,7 @@ composante
 composé
 compréhension
 comprenand
-comprendre
+Comprendre
 compte
 concentre
 concepteur
@@ -158,7 +158,7 @@ curiosité
 d’abord
 d’Aix
 d’ancêtre
-Dans
+dans
 d’autre
 D’autres
 davantage
@@ -169,6 +169,7 @@ découvre
 défaillants
 définissant
 définition
+delà
 démarche
 d’emblée
 démontrant
@@ -189,6 +190,7 @@ d’étendre
 déterminer
 deux
 développé
+dévoile
 d’Excellence
 d’exécuter
 d’explorer
@@ -233,6 +235,7 @@ effet
 efficacité
 également
 élargir
+élargissant
 électrochimiques
 électromagnétique
 électroniques
@@ -298,8 +301,8 @@ focalisation
 focaliser
 fois
 fonction
-fonctionne
 fonctionnement
+fonctionnent
 fonctionner
 fondamentale
 fondamentales
@@ -327,7 +330,8 @@ hiérarchie
 horizontale
 horloge
 horloger
-humain
+Humain
+humaine
 humains
 humidité
 hypothèse
@@ -422,7 +426,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-Mais
+mais
 malgré
 manière
 manuscrite
@@ -498,7 +502,7 @@ ou
 où
 ouvrent
 pâlir
-Panoramique
+panoramique
 paradigme
 paradoxe
 parallélisé
@@ -535,18 +539,15 @@ portée
 possède
 potentiellement
 pourrait
-poussant
 pousse
 pouvant
 pouvons
 précieux
 précision
 prédateurs
-présente
 présentent
 présenter
 présentes
-presque
 pressions
 probablement
 problèmes
@@ -574,6 +575,7 @@ quelques
 qui
 qu’il
 qu’ils
+qu’une
 radicalement
 rapides
 rayons
@@ -597,7 +599,7 @@ remontant
 remonte
 remonter
 repérer
-répondre
+Répondre
 réponse
 repousser
 représentation
@@ -701,7 +703,7 @@ transversale
 très
 trouve
 trouvent
-une
+Une
 uniforme
 Université
 utile
