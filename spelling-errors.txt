@@ -84,9 +84,9 @@ certaines
 certains
 cerveau
 ces
-c’est
+C’est
 cet
-Cette
+cette
 chacune
 changement
 changements
@@ -107,7 +107,7 @@ classiques
 clignement
 CNRS
 coloré
-comme
+Comme
 Commençons
 commun
 communiquer
@@ -123,7 +123,7 @@ composante
 composés
 compréhension
 comprenant
-Comprendre
+comprendre
 concentre
 concepteur
 concevoir
@@ -156,7 +156,7 @@ curiosité
 d’abord
 d’Aix
 d’ancêtre
-Dans
+dans
 d’autre
 D’autres
 davantage
@@ -180,7 +180,7 @@ déplacer
 dérivent
 déroule
 derrière
-des
+Des
 désert
 dessein
 détecter
@@ -244,7 +244,7 @@ efficacité
 électroniques
 élémentaire
 éléments
-Elle
+elle
 elles
 embarqués
 émergé
@@ -316,7 +316,7 @@ ganglionnaires
 générations
 génèrent
 Globalement
-grâce
+Grâce
 graduellement
 gramme
 grande
@@ -328,7 +328,7 @@ Hoi
 horizontale
 horloge
 horloger
-Humain
+humain
 humaine
 humains
 humidité
@@ -405,7 +405,7 @@ l’iris
 littéralement
 l’objet
 l’obscurité
-l’œil
+L’œil
 l’on
 longtemps
 l’ordre
@@ -422,7 +422,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-Mais
+mais
 malgré
 manière
 manuscrite
@@ -607,7 +607,7 @@ remontant
 remonte
 remonter
 repérer
-répondre
+Répondre
 réponse
 repousser
 représentation
@@ -714,7 +714,7 @@ travers
 très
 trouve
 trouvent
-une
+Une
 uniforme
 Université
 utile
@@ -740,4 +740,4 @@ voitures
 volants
 vu
 vue
-yeux
+Yeux
