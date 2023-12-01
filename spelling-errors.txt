@@ -57,7 +57,7 @@ certaines
 certains
 cerveau
 Ces
-C’est
+c’est
 cet
 Cette
 chacune
@@ -86,15 +86,16 @@ comportent
 composant
 composés
 comprenant
-comprendre
+Comprendre
 concentre
 concentrées
+conclure
 considère
 Considérons
 constitue
 contient
 contracte
-Contractée
+contractée
 contractent
 contracter
 converger
@@ -123,7 +124,7 @@ d’environnements
 déplacer
 dérivent
 derrière
-des
+Des
 dessein
 d’étendre
 deux
@@ -170,6 +171,7 @@ Elle
 émergeant
 émerger
 émerveillement
+enfin
 énigme
 entoure
 entre
@@ -178,7 +180,6 @@ environnement
 eplorer
 espèce
 espèces
-essentiel
 été
 étonnante
 étonnantes
@@ -215,7 +216,7 @@ ganglionnaires
 générations
 génèrent
 Globalement
-Grâce
+grâce
 graduellement
 gramme
 grande
@@ -228,7 +229,6 @@ horloger
 humain
 humaine
 humains
-humidité
 hypothèse
 illustre
 imiter
@@ -251,7 +251,7 @@ juxtaposés
 l’action
 laquelle
 l’arbre
-larmes
+larme
 l’attention
 laurentperrinet
 l’axe
@@ -287,8 +287,7 @@ lumière
 lumineux
 luminosité
 maintenant
-maintenir
-mais
+Mais
 malgré
 manière
 manuscrite
@@ -397,7 +396,7 @@ Prunelle
 puis
 puisse
 puissent
-Pupille
+pupille
 pupilles
 quand
 quantité
@@ -439,7 +438,7 @@ ronde
 s’avère
 seiche
 sélection
-Selon
+selon
 semble
 semblent
 sembler
@@ -494,6 +493,7 @@ variabilité
 varier
 variété
 vers
+verser
 verticale
 visuel
 vivant

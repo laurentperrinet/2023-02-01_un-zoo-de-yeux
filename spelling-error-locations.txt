@@ -163,7 +163,7 @@ content/10.content.md:12:cerveau
 content/10.content.md:12:cerveau
 content/10.content.md:12:Ces
 content/10.content.md:12:Ces
-content/10.content.md:12:cet
+content/10.content.md:12:Ces
 content/10.content.md:12:chaque
 content/10.content.md:12:concentrées
 content/10.content.md:12:converger
@@ -174,9 +174,9 @@ content/10.content.md:12:différentes
 content/10.content.md:12:d'intérêt
 content/10.content.md:12:directement
 content/10.content.md:12:diriger
-content/10.content.md:12:dont
 content/10.content.md:12:électrochimiques
 content/10.content.md:12:électromagnétique
+content/10.content.md:12:enfin
 content/10.content.md:12:environ
 content/10.content.md:12:fait
 content/10.content.md:12:forme
@@ -190,7 +190,7 @@ content/10.content.md:12:neuronale
 content/10.content.md:12:notamment
 content/10.content.md:12:oculaire
 content/10.content.md:12:optique
-content/10.content.md:12:permettant
+content/10.content.md:12:permet
 content/10.content.md:12:photorécepteurs
 content/10.content.md:12:portée
 content/10.content.md:12:pouvons
@@ -247,15 +247,13 @@ content/10.content.md:14:exploitent
 content/10.content.md:14:Globalement
 content/10.content.md:14:horloge
 content/10.content.md:14:humaine
-content/10.content.md:14:humidité
 content/10.content.md:14:incroyable
 content/10.content.md:14:ingénieux
 content/10.content.md:14:intelligente
 content/10.content.md:14:justifier
-content/10.content.md:14:larmes
+content/10.content.md:14:larme
 content/10.content.md:14:l'espèce
 content/10.content.md:14:l'idée
-content/10.content.md:14:maintenir
 content/10.content.md:14:Mais
 content/10.content.md:14:Mais
 content/10.content.md:14:mécanique
@@ -280,9 +278,11 @@ content/10.content.md:14:souvent
 content/10.content.md:14:une
 content/10.content.md:14:une
 content/10.content.md:14:une
+content/10.content.md:14:une
 content/10.content.md:14:Une
 content/10.content.md:14:utilisée
 content/10.content.md:14:variété
+content/10.content.md:14:verser
 content/10.content.md:14:yeux
 content/10.content.md:14:yeux
 content/10.content.md:14:yeux
@@ -304,7 +304,6 @@ content/10.content.md:18:dans
 content/10.content.md:18:des
 content/10.content.md:18:diversité
 content/10.content.md:18:domestique
-content/10.content.md:18:dont
 content/10.content.md:18:faisant
 content/10.content.md:18:fente
 content/10.content.md:18:forme
@@ -614,6 +613,7 @@ content/10.content.md:31:l'arbre
 content/10.content.md:31:leurs
 content/10.content.md:31:l'on
 content/10.content.md:31:mais
+content/10.content.md:31:Mais
 content/10.content.md:31:moutons
 content/10.content.md:31:nombreux
 content/10.content.md:31:oculaires
@@ -778,6 +778,7 @@ content/10.content.md:37:coquille
 content/10.content.md:37:d'ancêtre
 content/10.content.md:37:dans
 content/10.content.md:37:dans
+content/10.content.md:37:dans
 content/10.content.md:37:des
 content/10.content.md:37:des
 content/10.content.md:37:des
@@ -797,7 +798,6 @@ content/10.content.md:37:espèce
 content/10.content.md:37:espèces
 content/10.content.md:37:été
 content/10.content.md:37:étonnantes
-content/10.content.md:37:être
 content/10.content.md:37:études
 content/10.content.md:37:évoluent
 content/10.content.md:37:évolution
@@ -813,7 +813,6 @@ content/10.content.md:37:hypothèse
 content/10.content.md:37:immédiat
 content/10.content.md:37:indépendants
 content/10.content.md:37:inventés
-content/10.content.md:37:l'arbre
 content/10.content.md:37:l'espèce
 content/10.content.md:37:l'évolution
 content/10.content.md:37:l'évolution
@@ -828,7 +827,6 @@ content/10.content.md:37:nombreux
 content/10.content.md:37:n'y
 content/10.content.md:37:partager
 content/10.content.md:37:permettant
-content/10.content.md:37:peut
 content/10.content.md:37:plusieurs
 content/10.content.md:37:pressions
 content/10.content.md:37:processus
@@ -862,7 +860,6 @@ content/10.content.md:39:Évolution
 content/10.content.md:39:L'Évolution
 content/10.content.md:39:L'Évolution
 content/10.content.md:41:adapté
-content/10.content.md:41:aient
 content/10.content.md:41:ainsi
 content/10.content.md:41:aussi
 content/10.content.md:41:aussi
@@ -874,8 +871,8 @@ content/10.content.md:41:certaines
 content/10.content.md:41:ces
 content/10.content.md:41:chaque
 content/10.content.md:41:comportements
+content/10.content.md:41:conclure
 content/10.content.md:41:créées
-content/10.content.md:41:dans
 content/10.content.md:41:dans
 content/10.content.md:41:d'environnements
 content/10.content.md:41:des
@@ -885,11 +882,9 @@ content/10.content.md:41:diversité
 content/10.content.md:41:d'un
 content/10.content.md:41:d'un
 content/10.content.md:41:émergeant
-content/10.content.md:41:essentiel
 content/10.content.md:41:évolué
 content/10.content.md:41:évolutifs
 content/10.content.md:41:façon
-content/10.content.md:41:fait
 content/10.content.md:41:horloger
 content/10.content.md:41:indépendamment
 content/10.content.md:41:l'existence
@@ -897,10 +892,11 @@ content/10.content.md:41:lumière
 content/10.content.md:41:mettant
 content/10.content.md:41:oculaires
 content/10.content.md:41:plusieurs
+content/10.content.md:41:plutôt
+content/10.content.md:41:pouvons
 content/10.content.md:41:processus
 content/10.content.md:41:puissent
 content/10.content.md:41:recourir
-content/10.content.md:41:réside
 content/10.content.md:41:révèlent
 content/10.content.md:41:sembler
 content/10.content.md:41:spécifique
