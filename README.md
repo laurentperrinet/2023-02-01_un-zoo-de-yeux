@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/gh-pages) branch hosts the contents of this directory at <https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/>.
-The permalink for this webpage version is <https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/2d9c539f94e0ac843fc82313390382bbf9f11d9b/>.
+The permalink for this webpage version is <https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/ce4148f43b0f99dc7bf7bffe66130e9aab9e654e/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`2d9c539f94e0ac843fc82313390382bbf9f11d9b`](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/commit/2d9c539f94e0ac843fc82313390382bbf9f11d9b).
+[`ce4148f43b0f99dc7bf7bffe66130e9aab9e654e`](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/commit/ce4148f43b0f99dc7bf7bffe66130e9aab9e654e).
