@@ -860,7 +860,6 @@ content/10.content.md:39:Évolution
 content/10.content.md:39:L'Évolution
 content/10.content.md:39:L'Évolution
 content/10.content.md:41:adapté
-content/10.content.md:41:ainsi
 content/10.content.md:41:aussi
 content/10.content.md:41:aussi
 content/10.content.md:41:avoir
@@ -880,14 +879,14 @@ content/10.content.md:41:dessein
 content/10.content.md:41:différentes
 content/10.content.md:41:diversité
 content/10.content.md:41:d'un
-content/10.content.md:41:d'un
+content/10.content.md:41:d’un
 content/10.content.md:41:émergeant
 content/10.content.md:41:évolué
 content/10.content.md:41:évolutifs
 content/10.content.md:41:façon
 content/10.content.md:41:horloger
 content/10.content.md:41:indépendamment
-content/10.content.md:41:l'existence
+content/10.content.md:41:l’existence
 content/10.content.md:41:lumière
 content/10.content.md:41:mettant
 content/10.content.md:41:oculaires

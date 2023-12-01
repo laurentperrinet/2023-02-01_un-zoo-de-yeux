@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-12-01" />
   <meta name="citation_publication_date" content="2023-12-01" />
   <meta property="article:published_time" content="2023-12-01" />
-  <meta name="dc.modified" content="2023-12-01T17:24:10+00:00" />
-  <meta property="article:modified_time" content="2023-12-01T17:24:10+00:00" />
+  <meta name="dc.modified" content="2023-12-01T18:45:24+00:00" />
+  <meta property="article:modified_time" content="2023-12-01T18:45:24+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/d0f9fe200244bf3e9f32fb40f32cb3a540abb98b/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/d0f9fe200244bf3e9f32fb40f32cb3a540abb98b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/d0f9fe200244bf3e9f32fb40f32cb3a540abb98b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/dda263da7303b89b6e1679d7a796516e87560680/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/dda263da7303b89b6e1679d7a796516e87560680/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/dda263da7303b89b6e1679d7a796516e87560680/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/d0f9fe200244bf3e9f32fb40f32cb3a540abb98b/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/dda263da7303b89b6e1679d7a796516e87560680/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@d0f9fe2](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/d0f9fe200244bf3e9f32fb40f32cb3a540abb98b)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@dda263d](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/dda263da7303b89b6e1679d7a796516e87560680)
 on December 1, 2023.
 </em></small>
 
@@ -136,5 +136,5 @@ Des études récentes convergent sur le fait que les yeux ont été "inventés" 
 
 ## L'Évolution en Action
 
-Les différentes anatomies oculaires révèlent aussi que chaque système visuel est adapté à un ensemble bien spécifique de comportements et d'environnements. Bien que certaines de ces "inventions" puissent sembler aussi complexes que les machines créées par les mains d'un horloger, nous pouvons conclure que les yeux ont plutôt évolué indépendamment à plusieurs reprises sans avoir besoin de recourir à l'existence d'un dessein intelligent, mettant ainsi en lumière la diversité des solutions émergeant de façon spontanée dans les processus évolutifs du vivant.
+Les différentes anatomies oculaires révèlent aussi que chaque système visuel est adapté à un ensemble bien spécifique de comportements et d'environnements. Bien que certaines de ces "inventions" puissent sembler aussi complexes que les machines créées par les mains d'un horloger, en mettant en lumière la diversité des solutions émergeant de façon spontanée dans les processus évolutifs du vivant, nous pouvons en conclure que les yeux ont plutôt évolué indépendamment à plusieurs reprises sans avoir besoin de recourir à l’existence d’un dessein intelligent.
 

@@ -37,7 +37,7 @@ ayant
 bandes
 besoin
 biais
-bien
+Bien
 biseau
 blanc
 bleu
@@ -86,7 +86,7 @@ comportent
 composant
 composés
 comprenant
-Comprendre
+comprendre
 concentre
 concentrées
 conclure
@@ -110,7 +110,7 @@ curiosité
 d’abord
 d’Aix
 d’ancêtre
-dans
+Dans
 d’autre
 D’autres
 d’avoir
@@ -216,7 +216,7 @@ ganglionnaires
 générations
 génèrent
 Globalement
-grâce
+Grâce
 graduellement
 gramme
 grande
@@ -347,7 +347,7 @@ organisées
 origines
 ou
 où
-Panoramique
+panoramique
 paradoxe
 parcours
 parfaitement
@@ -438,7 +438,7 @@ ronde
 s’avère
 seiche
 sélection
-selon
+Selon
 semble
 semblent
 sembler
