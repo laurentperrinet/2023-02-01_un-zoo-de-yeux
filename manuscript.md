@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2023-12-01" />
   <meta name="citation_publication_date" content="2023-12-01" />
   <meta property="article:published_time" content="2023-12-01" />
-  <meta name="dc.modified" content="2023-12-01T15:52:18+00:00" />
-  <meta property="article:modified_time" content="2023-12-01T15:52:18+00:00" />
+  <meta name="dc.modified" content="2023-12-01T17:06:05+00:00" />
+  <meta property="article:modified_time" content="2023-12-01T17:06:05+00:00" />
   <meta name="dc.language" content="fr-FR" />
   <meta name="citation_language" content="fr-FR" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -39,9 +39,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/" />
   <meta name="citation_pdf_url" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/720bb0f095ca00cae5223dba1688b0b74133bc7b/" />
-  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/720bb0f095ca00cae5223dba1688b0b74133bc7b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/720bb0f095ca00cae5223dba1688b0b74133bc7b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1b26b3b4d634e4efe17c2e97c2a5759acfca65e8/" />
+  <meta name="manubot_html_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1b26b3b4d634e4efe17c2e97c2a5759acfca65e8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1b26b3b4d634e4efe17c2e97c2a5759acfca65e8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -63,9 +63,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/720bb0f095ca00cae5223dba1688b0b74133bc7b/))
+([permalink](https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux/v/1b26b3b4d634e4efe17c2e97c2a5759acfca65e8/))
 was automatically generated
-from [laurentperrinet/2023-02-01_un-zoo-de-yeux@720bb0f](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/720bb0f095ca00cae5223dba1688b0b74133bc7b)
+from [laurentperrinet/2023-02-01_un-zoo-de-yeux@1b26b3b](https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux/tree/1b26b3b4d634e4efe17c2e97c2a5759acfca65e8)
 on December 1, 2023.
 </em></small>
 
@@ -96,33 +96,33 @@ on December 1, 2023.
 :::
 
 
-Grâce à nos yeux, l'organe sensible de la vision, nous pouvons aisément et instantanément partir à la découverte du monde visible qui nous entoure. C'est littéralement un miracle : la vision opère sans effort malgré la complexité des processus qui sont mis en œuvre. Mais en fait, comment fonctionnent nos yeux ? Quelles leçons pouvons-nous tirer de la diversité des structures oculaires présentes dans le règne animal ? Est-il possible de remonter aux origines de leur évolution pour comprendre comment les yeux ont émergé au fil de l'évolution du monde vivant ?
+Grâce à nos yeux, l'organe sensible de la vision, nous pouvons aisément et instantanément eplorer le monde visible qui nous entoure. C'est littéralement un miracle : la vision opère sans effort malgré la complexité des processus qui sont mis en œuvre. Mais en fait, comment fonctionnent nos yeux ? Quelles leçons pouvons-nous tirer de leur diversité dans le règne animal ? Est-il possible de remonter aux origines de leur évolution pour comprendre comment les yeux ont émergé au cours de l'évolution du vivant ?
 
 ## L’œil humain : Un Chef-d'œuvre de la Nature
 
-L'œil humain suscite un émerveillement immédiat quand on considère son fonctionnement ingénieux. Vu de l'extérieur et de face, l'œil dévoile le globe oculaire, protégé par les paupières, et en son centre se trouve la pupille, autour de laquelle l'iris coloré peut se dilater ou se contracter selon la luminosité ou l'attention (voir Figure @fig:oeil). La forme de globe sphérique permet de réaliser des mouvements rapides de rotation pour diriger le regard vers des points d'intérêt. Une coupe transversale permet de suivre le parcours de la lumière : celle-ci traverse d'abord une surface bombée, la cornée, puis le cristallin, une lentille qui concentre les rayons lumineux sur le fond de l'œil, sur lequel réside le composant sensible de l'œil, la rétine.
+L'œil humain suscite un émerveillement immédiat quand on considère son fonctionnement ingénieux. Vu de l'extérieur et de face, l'œil dévoile le globe oculaire, protégé par les paupières, et en son centre se trouve la pupille, autour de laquelle l'iris coloré peut se dilater ou se contracter selon la luminosité ou l'attention (voir Figure @fig:oeil). Une coupe transversale permet de suivre le parcours de la lumière : celle-ci traverse d'abord une surface bombée, la cornée, puis le cristallin, une lentille qui concentre les rayons lumineux sur le fond de l'œil, sur lequel réside le composant sensible de l'œil, la rétine.
 
 ![
 **Anatomie de l'œil humain.**
 La vue de face de l'œil humain montre le blanc du globe oculaire, protégé par les paupières et l'ouverture de la pupille, contractée par les muscles de l'iris. La vue en coupe illustre le passage de la lumière à travers la cornée et sa focalisation grâce au cristallin sur la rétine. Cette surface contient des neurones sensibles à la lumière ainsi que plusieurs couches de traitement qui permettent de transmettre cette information au cerveau par l'intermédiaire du nerf optique sous forme d'une activité neurale.
-](./images/zoo-oeil.jpg "Anatomie de l'oeil humain."){#fig:oeil}
+](./images/zoo-oeil.jpg "Anatomie de l'œil humain."){#fig:oeil}
 
-Dans la rétine se trouvent environ 100 millions de photorécepteurs qui transforment l'énergie électromagnétique portée par les photons en réactions électrochimiques. Ces processus génèrent une activité neuronale qui passe par différentes couches de traitement pour converger vers les quelques 1,5 million de cellules ganglionnaires dont les sorties s'unissent pour former le nerf optique, reliant ainsi chaque rétine au reste du cerveau. De fait, la rétine est la seule portion du cerveau que nous pouvons directement observer!
+Dans la rétine se trouvent environ 100 millions de photorécepteurs qui transforment l'énergie électromagnétique portée par les photons en réactions électrochimiques. Ces cellules sont notamment concentrées autour de l'axe de l'œil, la forme sphérique du globe oculaire permettant de réaliser des mouvements rapides pour diriger cet axe vers des points d'intérêt. Ces processus génèrent une activité neuronale qui passe par différentes couches de traitement pour converger vers les quelques 1,5 million de cellules ganglionnaires dont les sorties s'unissent pour former le nerf optique, reliant ainsi chaque rétine au reste du cerveau. De fait, la rétine est la seule portion du cerveau que nous pouvons directement observer!
 
-Mais nos yeux ne se résument pas simplement à ça ! Une complexité incroyable réside autour des yeux pour permettre son mouvement, maintenir son humidité par les larmes ou accomplir un simple clignement. Globalement, cet ensemble ressemble à une mécanique aussi parfaitement réglée qu'une horloge. Cette analogie est souvent utilisée pour justifier l'idée d'une conception intelligente derrière nos yeux : "Comment aurait-il pu en être autrement ?" Répondre à cet argument n'est pas évident d'emblée... Mais, en élargissant le champ de notre curiosité au-delà de l'espèce humaine, nous réalisons alors la variété des formes oculaires dans le règne animal, démontrant que les animaux exploitent des mécanismes tout aussi ingénieux. 
+Mais nos yeux ne se résument pas simplement à ça ! Une complexité incroyable réside autour des yeux pour permettre son mouvement, maintenir son humidité par les larmes ou accomplir un simple clignement. Globalement, cet ensemble ressemble à une mécanique aussi parfaitement réglée qu'une horloge. Cette analogie est souvent utilisée pour justifier l'idée d'une conception intelligente derrière nos yeux : "Comment aurait-il pu en être autrement ?" Répondre à cet argument n'est pas évident d'emblée... Mais, en élargissant le champ de notre curiosité au-delà de l'espèce humaine, nous réalisons alors la variété observée dans le règne animal, démontrant que les animaux exploitent des mécanismes tout aussi ingénieux. 
 
 ## La Pupille, la Prunelle de nos Yeux
 
-Commençons notre exploration de la diversité des yeux dans le règne animal en portant notre attention sur sa partie la plus apparente : la pupille (voir Figure @fig:pupilles). Comme nous l'avons vu, cette composante du globe oculaire module le passage de la lumière. Intéressons-nous d'abord à la pupille du chat domestique : dans l'obscurité, sa forme est parfaitement ronde et se contracte graduellement quand la luminosité augmente pour former cette fente caractéristique en forme de biseau vertical, lui conférant alors une acuité supérieure pour attraper des proies proches. Les humains présentent un mécanisme de contraction similaire, mais uniforme dans toutes les directions, maintenant ainsi une forme ronde.
+Commençons notre exploration de la diversité des yeux dans le règne animal en portant notre attention sur sa partie la plus apparente : la pupille (voir Figure @fig:pupilles). dont le rôle est de moduler le passage de la lumière en faisant varier sa taille. Intéressons-nous d'abord à la pupille du chat domestique : dans l'obscurité, sa forme est parfaitement ronde et se contracte graduellement quand la luminosité augmente pour former cette fente caractéristique en forme de biseau vertical. Les humains présentent un mécanisme de contraction similaire, mais uniforme dans toutes les directions, maintenant ainsi une forme ronde.
 
 ![
 **Pupilles chez différentes espèces : Humain, chat, chèvre, seiche.**
-La pupille peut se contracter par l'action des muscles de l'iris et moduler la quantité de lumière. Contractée, sa forme peut être ronde (humain), en forme de fente verticale (chat) ou horizontale (chèvre), alors que la seiche possède une pupille à la forme unique en "w".
+La pupille peut se contracter par l'action des muscles de l'iris et moduler la quantité de lumière. Contractée, sa forme peut être ronde (humain), en forme de fente verticale (chat) ou horizontale (chèvre). Contractée, la pupille de la seiche montre une forme caractéristique en "w".
 ](./images/zoo-pupille.jpg "Pupilles d'humain, chat, chèvre et seiche."){#fig:pupilles}
 
-De manière plus étonnante, les pupilles des moutons ou chèvres se contractent selon un axe horizontal, et ceci même quand ces animaux bougent leur tête pour brouter. Cette adaptation est expliquée par le statut de proie plus fréquent chez ces espèces, cette forme leur permettant d'étendre leur champ de vision. En revanche, la forme de fente verticale des chats favorise plutôt la perception de la profondeur des objets proches, et comme prédateurs, cet avantage s'avère particulièrement utile pour une attaque. 
+De manière plus étonnante, les pupilles des moutons ou chèvres se contractent selon un axe horizontal, même quand ces animaux pivotent leur tête pour brouter. Ces espèces sont des proies, et comme cette forme leur permet d'étendre leur champ de vision, cette adaptation améliore les chances de survie. En revanche, la forme de fente verticale des chats favorise plutôt la perception de la profondeur des objets proches, et comme prédateurs, cet avantage s'avère particulièrement utile pour une attaque. 
 
-D'autres animaux présentent des pupilles aux formes encore plus remarquables. Un exemple est la seiche, dont la pupille, une fois contractée, arbore une forme ondulée ressemblant à la lettre manuscrite "w". Cette pupille unique dans le règne animal a longtemps suscité une énigme. Il s'avère d'autre part que ces animaux modifient la couleur de leur peau pour communiquer ou se camoufler. Ce comportement constitue un paradoxe, car un tel comportement nécessite nécessairement la perception de la couleur ou de la texture de l'objet à imiter, alors qu'il a été montré que cette espèce ne possède pas de photorécepteurs sensibles à différentes couleurs. Une hypothèse fascinante a émergé qui relie ces deux mystères. Elle suggère que la forme de la pupille puisse jouer un rôle dans la perception des couleurs. À l'instar d'un arc-en-ciel décomposant les couleurs en bandes distinctes, les systèmes optiques réfléchissent les différentes couleurs suivant des angles légèrement distincts. La pupille singulière de la seiche pourrait ainsi produire de subtiles différences pour chaque couleur, permettant au cerveau d'extraire les informations utiles pour les discerner, et ceci sans nécessiter de photorécepteurs spécifiques. Cette hypothèse illustre l'ingéniosité des stratégies qui peuvent émerger par le biais de la sélection naturelle, où des millions de générations et des milliards d'individus ont favorisé ces traits pour la survie de l'espèce.
+D'autres animaux présentent des pupilles aux formes encore plus remarquables. Un exemple est la seiche, dont la pupille, une fois contractée, arbore une forme ondulée ressemblant à la lettre manuscrite "w". Cette pupille unique dans le règne animal a longtemps suscité une énigme. Il s'avère d'autre part que ces animaux modifient la couleur de leur peau pour communiquer ou se camoufler. Ce comportement constitue un paradoxe, car un tel comportement nécessite nécessairement la perception de la couleur ou de la texture de l'objet à imiter, alors qu'il a été montré que cette espèce ne possède pas de photorécepteurs sensibles à différentes couleurs. Une hypothèse fascinante a émergé qui relie ces deux mystères. Elle suggère que la forme de la pupille puisse jouer un rôle dans la perception des couleurs. À l'instar d'un arc-en-ciel décomposant les couleurs en bandes distinctes, ce type de système optique réfléchit les différentes couleurs suivant des angles légèrement distincts. La pupille singulière de la seiche pourrait ainsi produire de subtiles différences pour chaque couleur, permettant au cerveau d'extraire les informations utiles pour les discerner, et ceci sans nécessiter de photorécepteurs spécifiques. Cette hypothèse illustre l'ingéniosité des stratégies qui peuvent émerger par le biais de la sélection naturelle, où des millions de générations et des milliards d'individus ont favorisé ces traits pour la survie de l'espèce.
 
 ## D’autres facettes des yeux : La Vision Panoramique des Mouches
 
