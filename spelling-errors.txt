@@ -8,7 +8,7 @@ AgileNeuroBot
 agissant
 aider
 aient
-Ainsi
+ainsi
 aisément
 Aix
 algorithmes
@@ -52,7 +52,7 @@ bandes
 basés
 besoin
 biais
-bien
+Bien
 biologique
 biomorphique
 biseau
@@ -73,7 +73,7 @@ capturer
 caractéristique
 caractéristiques
 ceci
-Cela
+cela
 celle
 cellules
 celui
@@ -86,7 +86,7 @@ cerveau
 ces
 C’est
 cet
-cette
+Cette
 chacune
 changement
 changements
@@ -107,7 +107,7 @@ classiques
 clignement
 CNRS
 coloré
-Comme
+comme
 Commençons
 commun
 communiquer
@@ -156,7 +156,7 @@ curiosité
 d’abord
 d’Aix
 d’ancêtre
-dans
+Dans
 d’autre
 D’autres
 davantage
@@ -180,7 +180,7 @@ déplacer
 dérivent
 déroule
 derrière
-Des
+des
 désert
 dessein
 détecter
@@ -244,7 +244,7 @@ efficacité
 électroniques
 élémentaire
 éléments
-elle
+Elle
 elles
 embarqués
 émergé
@@ -328,7 +328,7 @@ Hoi
 horizontale
 horloge
 horloger
-humain
+Humain
 humaine
 humains
 humidité
@@ -422,7 +422,7 @@ lunettes
 L’utilisation
 maintenant
 maintenir
-mais
+Mais
 malgré
 manière
 manuscrite
@@ -479,7 +479,7 @@ n’importe
 nombreuses
 nombreux
 notamment
-Notre
+notre
 nourriture
 nouveaux
 nouvelle
@@ -570,7 +570,7 @@ puces
 puis
 puisse
 puissent
-pupille
+Pupille
 Pupilles
 quand
 quantité
@@ -740,4 +740,4 @@ voitures
 volants
 vu
 vue
-Yeux
+yeux
