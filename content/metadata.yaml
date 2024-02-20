@@ -1,6 +1,6 @@
 ---
-title: "Comment l'œil a t'il été inventé?"
-date: null  # Defaults to date generated, but can specify like '2022-10-31'.
+title: "Chats, mouches, humains : comment la vision a évolué en de multiples facettes"
+date: 2024-01-22  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
 - Perception visuelle
 - Anatomie
@@ -22,7 +22,7 @@ subject: neurosciences, vision, yeux, cerveau, évolution
 description: Article de dissémination sur la perception visuelle, vue à travers l'anatomie des yeux dans différentes espèces.
 category: review
 papersize: a4
-thanks: L'auteur voudrait remercier [...](https://theconversation.com/profiles/...) pour les (nombreuses!) corrections apportées à ce texte.
+thanks: L'auteur voudrait remercier [Benoît Tonson](https://theconversation.com/fr/team) pour les (nombreuses!) corrections apportées à ce texte. L'article publié est disponible sur https://theconversation.com/chats-mouches-humains-comment-la-vision-a-evolue-en-de-multiples-facettes-220083.
 website: https://laurentperrinet.github.io/2023-02-01_un-zoo-de-yeux
 source: https://github.com/laurentperrinet/2023-02-01_un-zoo-de-yeux
 
